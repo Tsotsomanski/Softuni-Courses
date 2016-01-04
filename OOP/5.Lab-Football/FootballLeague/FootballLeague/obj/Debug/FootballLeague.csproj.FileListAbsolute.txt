@@ -1,0 +1,2 @@
+c:\users\sn3ts\documents\visual studio 2013\Projects\FootballLeague\FootballLeague\bin\Debug\FootballLeague.exe.config
+C:\Users\sn3ts\Documents\Visual Studio 2015\Projects\FromVS2013\FootballLeague\FootballLeague\bin\Debug\FootballLeague.exe.config

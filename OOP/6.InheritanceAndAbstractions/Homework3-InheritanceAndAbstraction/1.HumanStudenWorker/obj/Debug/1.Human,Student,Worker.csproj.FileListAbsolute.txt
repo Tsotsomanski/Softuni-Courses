@@ -1,0 +1,12 @@
+c:\users\sn3ts\documents\visual studio 2013\Projects\Homework3-InheritanceAndAbstraction\Homework3-InheritanceAndAbstraction\obj\Debug\1.Human,Student,Worker.csprojResolveAssemblyReference.cache
+c:\users\sn3ts\documents\visual studio 2013\Projects\Homework3-InheritanceAndAbstraction\Homework3-InheritanceAndAbstraction\bin\Debug\Homework3-InheritanceAndAbstraction.exe.config
+c:\users\sn3ts\documents\visual studio 2013\Projects\Homework3-InheritanceAndAbstraction\Homework3-InheritanceAndAbstraction\bin\Debug\Homework3-InheritanceAndAbstraction.exe
+c:\users\sn3ts\documents\visual studio 2013\Projects\Homework3-InheritanceAndAbstraction\Homework3-InheritanceAndAbstraction\bin\Debug\Homework3-InheritanceAndAbstraction.pdb
+c:\users\sn3ts\documents\visual studio 2013\Projects\Homework3-InheritanceAndAbstraction\Homework3-InheritanceAndAbstraction\obj\Debug\Homework3-InheritanceAndAbstraction.exe
+c:\users\sn3ts\documents\visual studio 2013\Projects\Homework3-InheritanceAndAbstraction\Homework3-InheritanceAndAbstraction\obj\Debug\Homework3-InheritanceAndAbstraction.pdb
+C:\Users\sn3ts\Documents\Visual Studio 2013\Projects\Homework3-InheritanceAndAbstraction\1.HumanStudenWorker\bin\Debug\Homework3-InheritanceAndAbstraction.exe.config
+C:\Users\sn3ts\Documents\Visual Studio 2013\Projects\Homework3-InheritanceAndAbstraction\1.HumanStudenWorker\bin\Debug\Homework3-InheritanceAndAbstraction.exe
+C:\Users\sn3ts\Documents\Visual Studio 2013\Projects\Homework3-InheritanceAndAbstraction\1.HumanStudenWorker\bin\Debug\Homework3-InheritanceAndAbstraction.pdb
+C:\Users\sn3ts\Documents\Visual Studio 2013\Projects\Homework3-InheritanceAndAbstraction\1.HumanStudenWorker\obj\Debug\1.Human,Student,Worker.csprojResolveAssemblyReference.cache
+C:\Users\sn3ts\Documents\Visual Studio 2013\Projects\Homework3-InheritanceAndAbstraction\1.HumanStudenWorker\obj\Debug\Homework3-InheritanceAndAbstraction.exe
+C:\Users\sn3ts\Documents\Visual Studio 2013\Projects\Homework3-InheritanceAndAbstraction\1.HumanStudenWorker\obj\Debug\Homework3-InheritanceAndAbstraction.pdb

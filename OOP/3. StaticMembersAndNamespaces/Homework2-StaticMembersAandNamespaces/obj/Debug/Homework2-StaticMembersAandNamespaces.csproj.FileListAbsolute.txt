@@ -1,0 +1,1 @@
+c:\users\sn3ts\documents\visual studio 2013\Projects\Homework2-StaticMembersAandNamespaces\Homework2-StaticMembersAandNamespaces\bin\Debug\Homework2-StaticMembersAandNamespaces.exe.config

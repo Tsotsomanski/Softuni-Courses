@@ -1,0 +1,6 @@
+c:\users\sn3ts\documents\visual studio 2013\Projects\Homework2-StaticMembersAandNamespaces\Homework2-StaticMembersAandNamespaces\bin\Debug\Homework2-StaticMembersAandNamespaces.exe.config
+c:\users\sn3ts\documents\visual studio 2013\Projects\Homework2-StaticMembersAandNamespaces\Homework2-StaticMembersAandNamespaces\bin\Debug\Homework2-StaticMembersAandNamespaces.exe
+c:\users\sn3ts\documents\visual studio 2013\Projects\Homework2-StaticMembersAandNamespaces\Homework2-StaticMembersAandNamespaces\bin\Debug\Homework2-StaticMembersAandNamespaces.pdb
+c:\users\sn3ts\documents\visual studio 2013\Projects\Homework2-StaticMembersAandNamespaces\Homework2-StaticMembersAandNamespaces\obj\Debug\Pint3D.csprojResolveAssemblyReference.cache
+c:\users\sn3ts\documents\visual studio 2013\Projects\Homework2-StaticMembersAandNamespaces\Homework2-StaticMembersAandNamespaces\obj\Debug\Homework2-StaticMembersAandNamespaces.exe
+c:\users\sn3ts\documents\visual studio 2013\Projects\Homework2-StaticMembersAandNamespaces\Homework2-StaticMembersAandNamespaces\obj\Debug\Homework2-StaticMembersAandNamespaces.pdb

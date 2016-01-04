@@ -1,0 +1,3 @@
+c:\users\sn3ts\documents\visual studio 2013\Projects\Homework1-DefiningClasses\Homework1-DefiningClasses\bin\Debug\Homework1-DefiningClasses.exe.config
+c:\users\sn3ts\documents\visual studio 2013\Projects\Homework1-DefiningClasses\Homework1-DefiningClasses\obj\Debug\Homework1-DefiningClasses.exe
+c:\users\sn3ts\documents\visual studio 2013\Projects\Homework1-DefiningClasses\Homework1-DefiningClasses\obj\Debug\Homework1-DefiningClasses.pdb
