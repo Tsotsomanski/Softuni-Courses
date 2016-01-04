@@ -1,0 +1,5 @@
+D:\Txt'doc\1. SoftUni\7. OOP\7.EncapsulationAndPolymorphism\04. OOP-Encapsulation-and-Polymorphism-Homework\TheSlum-Skeleton\bin\Debug\TheSlum.exe
+D:\Txt'doc\1. SoftUni\7. OOP\7.EncapsulationAndPolymorphism\04. OOP-Encapsulation-and-Polymorphism-Homework\TheSlum-Skeleton\bin\Debug\TheSlum.pdb
+D:\Txt'doc\1. SoftUni\7. OOP\7.EncapsulationAndPolymorphism\04. OOP-Encapsulation-and-Polymorphism-Homework\TheSlum-Skeleton\obj\Debug\TheSlum.csprojResolveAssemblyReference.cache
+D:\Txt'doc\1. SoftUni\7. OOP\7.EncapsulationAndPolymorphism\04. OOP-Encapsulation-and-Polymorphism-Homework\TheSlum-Skeleton\obj\Debug\TheSlum.exe
+D:\Txt'doc\1. SoftUni\7. OOP\7.EncapsulationAndPolymorphism\04. OOP-Encapsulation-and-Polymorphism-Homework\TheSlum-Skeleton\obj\Debug\TheSlum.pdb

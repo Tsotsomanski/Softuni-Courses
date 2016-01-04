@@ -1,0 +1,9 @@
+c:\users\sn3ts\documents\visual studio 2015\Projects\Exam-20-12.15\Exam-20-12.15\obj\Debug\Blobs.csprojResolveAssemblyReference.cache
+c:\users\sn3ts\documents\visual studio 2015\Projects\Exam-20-12.15\Exam-20-12.15\bin\Debug\Exam-20-12.15.exe.config
+c:\users\sn3ts\documents\visual studio 2015\Projects\Exam-20-12.15\Exam-20-12.15\bin\Debug\Exam-20-12.15.exe
+c:\users\sn3ts\documents\visual studio 2015\Projects\Exam-20-12.15\Exam-20-12.15\bin\Debug\Exam-20-12.15.pdb
+c:\users\sn3ts\documents\visual studio 2015\Projects\Exam-20-12.15\Exam-20-12.15\obj\Debug\Exam-20-12.15.exe
+c:\users\sn3ts\documents\visual studio 2015\Projects\Exam-20-12.15\Exam-20-12.15\obj\Debug\Exam-20-12.15.pdb
+C:\Users\sn3ts\Desktop\ExamPrepare\Exam-20-12.15\Exam-20-12.15\bin\Debug\Exam-20-12.15.exe.config
+C:\Users\sn3ts\Desktop\ExamPrepare\Exam-20-12.15\Exam-20-12.15\obj\Debug\Exam-20-12.15.exe
+C:\Users\sn3ts\Desktop\ExamPrepare\Exam-20-12.15\Exam-20-12.15\obj\Debug\Exam-20-12.15.pdb

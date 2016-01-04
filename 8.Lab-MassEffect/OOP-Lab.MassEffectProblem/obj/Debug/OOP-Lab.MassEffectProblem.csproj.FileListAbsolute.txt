@@ -1,0 +1,1 @@
+c:\users\sn3ts\documents\visual studio 2015\Projects\OOP-Lab.MassEffectProblem\OOP-Lab.MassEffectProblem\bin\Debug\OOP-Lab.MassEffectProblem.exe.config

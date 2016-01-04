@@ -1,0 +1,5 @@
+C:\Users\sn3ts\Desktop\ExamPrepare\Estates\01. Estates_Estates - Скелет\obj\Debug\Estates.csprojResolveAssemblyReference.cache
+C:\Users\sn3ts\Desktop\ExamPrepare\Estates\01. Estates_Estates - Скелет\bin\Debug\Estates.exe
+C:\Users\sn3ts\Desktop\ExamPrepare\Estates\01. Estates_Estates - Скелет\bin\Debug\Estates.pdb
+C:\Users\sn3ts\Desktop\ExamPrepare\Estates\01. Estates_Estates - Скелет\obj\Debug\Estates.exe
+C:\Users\sn3ts\Desktop\ExamPrepare\Estates\01. Estates_Estates - Скелет\obj\Debug\Estates.pdb

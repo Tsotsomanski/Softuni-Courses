@@ -1,0 +1,6 @@
+C:\Users\sn3ts\Documents\Visual Studio 2015\Projects\OOPExamPrepare-Empires\OOPExamPrepare-Empires\bin\Debug\OOPExamPrepare-Empires.exe.config
+C:\Users\sn3ts\Documents\Visual Studio 2015\Projects\OOPExamPrepare-Empires\OOPExamPrepare-Empires\obj\Debug\Empires.csprojResolveAssemblyReference.cache
+C:\Users\sn3ts\Documents\Visual Studio 2015\Projects\OOPExamPrepare-Empires\OOPExamPrepare-Empires\bin\Debug\OOPExamPrepare-Empires.exe
+C:\Users\sn3ts\Documents\Visual Studio 2015\Projects\OOPExamPrepare-Empires\OOPExamPrepare-Empires\bin\Debug\OOPExamPrepare-Empires.pdb
+C:\Users\sn3ts\Documents\Visual Studio 2015\Projects\OOPExamPrepare-Empires\OOPExamPrepare-Empires\obj\Debug\OOPExamPrepare-Empires.exe
+C:\Users\sn3ts\Documents\Visual Studio 2015\Projects\OOPExamPrepare-Empires\OOPExamPrepare-Empires\obj\Debug\OOPExamPrepare-Empires.pdb
