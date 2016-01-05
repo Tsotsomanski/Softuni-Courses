@@ -1,0 +1,122 @@
+using System;
+class Tables
+{
+    static void Main()
+    {
+
+        // packets in each bundle
+        int packetsInBundle1 = int.Parse(Console.ReadLine());
+        int packetsInBundle2 = int.Parse(Console.ReadLine());
+        int packetsInBundle3 = int.Parse(Console.ReadLine());
+        int packetsInBundle4 = int.Parse(Console.ReadLine());
+        //How many are the table tops:
+        int tops = int.Parse(Console.ReadLine());
+        //Tables to be made ?
+        int tablesOrder = int.Parse(Console.ReadLine());
+        ///Legs in each bundle:
+        int bundle1 = packetsInBundle1 * 1;
+        int bundle2 = packetsInBundle2 * 2;
+        int bundle3 = packetsInBundle3 * 3;
+        int bundle4 = packetsInBundle4 * 4;
+
+        int legsComplect = (bundle1 + bundle2 + bundle3 + bundle4) / 4;
+        int allLegs = bundle1 + bundle2 + bundle3 + bundle4;
+        int legsNeeded = tablesOrder * 4;
+        int topsNeeded = tablesOrder;
+        Console.WriteLine();
+
+        //Less , More , Enough
+        if (legsComplect == tops && legsComplect > tablesOrder)
+        {
+            int moreTables = tops - tablesOrder;
+            Console.WriteLine("more: {0}", moreTables);
+        }
+
+        if (allLegs < legsNeeded || tops < tablesOrder)
+        {
+            int lessTables = tops - tablesOrder;
+            Console.WriteLine("less: {0}", lessTables);
+        }
+
+        if (legsNeeded >= tablesOrder && tops == tablesOrder)
+        {
+            Console.WriteLine("Just enough tables made: {0}", tablesOrder);
+        }
+
+        // tops needed and legs needed
+        if (allLegs / 4 >= tablesOrder)
+        {
+            if (tops < topsNeeded)
+            {
+                Console.Write("tops needed: {0}", topsNeeded - tops);
+            }
+
+            if (tops > topsNeeded)
+            {
+                Console.Write("tops left: {0}", tops - topsNeeded);
+            }
+
+            //if (tops == topsNeeded)
+            //{
+            //    Console.WriteLine("legs left: {0}", allLegs - legsNeeded);
+            //}  
+	    //Chek : 1, 1, 1, 2, 2, 3 !
+
+        }
+
+        if (allLegs / 4 <= tablesOrder)
+        {
+            if (tops > topsNeeded)
+            {
+                Console.Write("tops needed: 0");
+            }
+
+            if (tops < topsNeeded)//
+            {//
+                Console.Write("tops needed: {0}", topsNeeded - tops);//
+            }
+
+            if (tops == topsNeeded)
+            {
+                Console.Write("legs needed: {0}", legsNeeded - allLegs);
+            }
+            //(tops == topsNeeded) put to -> more less enough
+        }
+
+        if (tops >= topsNeeded)
+        {
+            if (allLegs < legsNeeded)
+            {
+                Console.Write("tops needed: 0");
+            }
+
+            if (allLegs > legsNeeded)
+            {
+                Console.Write("legs left: {0}", allLegs - legsNeeded);
+            }
+
+            if (allLegs == legsNeeded)
+            {
+                Console.Write("tops left: {0}", tops - topsNeeded);
+            }
+        }
+
+        if (tops < topsNeeded)
+        {
+            if (allLegs > legsNeeded)
+            {
+                Console.Write("legs needed: 0");
+            }
+
+            if (allLegs < legsNeeded)
+            {
+                Console.Write("legs needed: {0}", legsNeeded - allLegs);
+            }
+
+            if (allLegs == legsNeeded)
+            {
+                Console.Write("tops needed: {0}", topsNeeded - tops);
+            }
+        }
+    }
+}

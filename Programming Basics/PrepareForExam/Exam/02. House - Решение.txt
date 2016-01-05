@@ -1,0 +1,73 @@
+using System;
+class House
+{
+    static void Main()
+    {
+        Console.WriteLine("Enter a number which will be the heigh and the width of the house (an odd integer betwen 5 and 49): ");
+        int heigh = int.Parse(Console.ReadLine());
+
+        int roofStarHeigh = (heigh - 1) / 2;
+        string middle = string.Empty;
+        int roofWidth = heigh;
+
+        if (heigh % 2 != 0 && heigh >= 5 && heigh <= 49)
+        {
+            // Roof!
+            string roofSides = new string('.', heigh / 2);
+
+            for (int i = 0; i <= roofStarHeigh; i++)
+            {
+		// Top of the roof
+                if (i == 0) 
+                {
+                    Console.WriteLine("{0}*{0}", roofSides);
+                }
+
+		// under the top
+                if (i > 0 && i != roofStarHeigh) 
+                {
+                    int sides = heigh / 2 - i;
+                    string roofSideDot = new string('.', sides);
+                    string roofMiddleDot = new string('.', (roofWidth - 2) - (sides * 2));
+                    Console.WriteLine("{0}{1}{2}{1}{0}", roofSideDot, "*", roofMiddleDot);
+                }
+
+		// Base of the roof
+                else if (i == roofStarHeigh)
+                {
+                    string roofBase = new string('*', heigh);
+                    Console.WriteLine(roofBase);
+                }
+            }
+
+            // Base of the house
+            int baseHeigh = (heigh - 1) / 2;
+            int baseWidth = heigh;
+
+            for (int i = 1; i <= baseHeigh; i++)
+            {
+		// Walls
+                if (i < baseHeigh)
+                {
+                    int baseSideDotInt = heigh / 4;
+                    string baseSideDot = new string('.', baseSideDotInt);
+                    string dotsBetwenWall = new string('.', (baseWidth - 2) - (baseSideDotInt * 2));
+                    Console.WriteLine("{0}{1}{2}{1}{0}", baseSideDot, "*", dotsBetwenWall);
+                }
+
+                else // End of the base
+                {
+                    int endSideDotInt = heigh / 4;
+                    string endSideDot = new string('.', endSideDotInt);
+                    string floor = new string('*', (baseWidth - endSideDotInt * 2));
+                    Console.WriteLine("{0}{1}{0}", endSideDot, floor);
+                } 
+            }
+        }
+
+        else
+        {
+            Console.WriteLine("Your number is not odd ! Try again. :)");
+        }
+    }
+}

@@ -1,0 +1,71 @@
+using System;
+using System.Text;
+class Arrow
+{
+    static void Main()
+    {
+        Console.WriteLine("Enter an odd number betwen 3 and 79: ");
+
+        int heigh = int.Parse(Console.ReadLine()); 
+        string point = new string('.', heigh / 2);
+        string pointBetwen = new string('.', heigh - 2);
+        string sharpBase = new string('#', heigh);
+        string sharpSingle = "#";
+        string sharpMiddle = new string('#', (heigh + 1) / 2);
+ 
+        if (heigh % 2 != 0 && heigh >= 3 && heigh <= 79)
+        {
+            //Base of errow
+            for (int i = 0; i < heigh; i++)
+            {
+                if (i == 0)
+                {
+                    Console.WriteLine("{0}{1}{0}", point, sharpBase);
+                }
+
+                else if (i > 0 && i != heigh - 1)
+                {
+                    Console.WriteLine("{0}{1}{2}{1}{0}", point, sharpSingle, pointBetwen);
+                }
+
+                else if (i == heigh - 1)
+                {
+                    Console.WriteLine("{0}{1}{0}", sharpMiddle, pointBetwen);
+                }
+            }
+ 
+            //Starts the top of the errow
+            int arrowSharpHeight = heigh - 1;
+            int arrowWidth = 2 * heigh - 1;
+            string middle = string.Empty;
+ 
+            for (int i = 1; i <= arrowSharpHeight; i++)
+            {
+                string sides = new string('.', i);
+                int sharpsCount = 2;
+
+                if (i == arrowSharpHeight)
+		{
+                    sharpsCount = 1;
+		}
+ 
+                middle = new string('.', (arrowWidth - (2 * i)) - sharpsCount); // i - dots on both sides of diez.
+                
+                if (i < arrowSharpHeight)
+		{
+                    Console.WriteLine("{0}#{1}#{0}", sides, middle);
+		}
+
+                else
+		{
+                    Console.WriteLine("{0}#{0}", sides);
+		}
+            }
+        }
+
+        else
+        {
+            Console.WriteLine("Invalid input");
+        }
+    }
+}

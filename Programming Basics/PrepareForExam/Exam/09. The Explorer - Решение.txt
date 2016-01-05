@@ -1,0 +1,44 @@
+using System;
+class TheExplorer
+{
+    static void Main()
+    {
+        Console.WriteLine("Enter the width ot the diamond (Width must be an odd number betwen 3 and 59): ");
+        int n = int.Parse(Console.ReadLine());
+
+        if (n % 2 != 0)
+        {
+        	int upPart = (n - 1) / 2;
+        	string topSide = new string('-', (n - 1) / 2);
+        	Console.WriteLine("{0}*{0}", topSide); // Edge
+
+        for (int i = 1; i < upPart; i++) // Top side
+        {
+		int side = ((n - 1) / 2) - i;
+		string upSide = new string('-', ((n - 1) / 2) - i);
+		string upBetwen = new string('-', (n - 2) - (side * 2));
+		Console.WriteLine("{0}{1}{2}{1}{0}", upSide, "*", upBetwen);
+        }
+
+        string center = new string('-', n - 2);
+        Console.WriteLine("{0}{1}{0}", "*", center); // Center
+        int downPart = (n - 1) / 2;
+
+        for (int i = 1; i < downPart; i++) // Down side
+        {
+            int downSideInt = i;
+            string downSide = new string('-', i);
+            string downBetwen = new string('-', (n - 2) - (downSideInt * 2));
+            Console.WriteLine("{0}{1}{2}{1}{0}", downSide, "*", downBetwen);
+        }
+
+        string down = new string('-', (n - 1) / 2);
+        Console.WriteLine("{0}{1}{0}", down, "*");
+        }
+
+        else
+        {
+            Console.WriteLine("Enter an odd number !");
+        }
+    }
+}

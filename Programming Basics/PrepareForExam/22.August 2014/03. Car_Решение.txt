@@ -1,0 +1,78 @@
+using System;
+class Car
+{
+    static void Main()
+    {
+        int n = int.Parse(Console.ReadLine());
+        int carWidth = 3 * n;
+        int carHeigh = (3 * n) / (2 - 1);
+        int roofHeigh = n / 2;
+        int bodyHeigh = n / 2;
+
+        if (n >= 6 && n <= 36)
+        {
+            string topDot = new string('.', n);
+            string topAsterisk = new string('*', n);
+            Console.WriteLine("{0}{1}{0}", topDot, topAsterisk); // car's top
+
+            for (int i = 1; i <= roofHeigh - 1; i++) // car's roof
+            {
+                int roofDotInt = n - i;
+                string roofDot = new string('.', roofDotInt);
+                string roofMidDot = new string('.', (carWidth - 2) - (roofDotInt * 2));
+                Console.WriteLine("{0}{1}{2}{1}{0}", roofDot, "*", roofMidDot);
+            }
+
+            for (int i = 1; i <= bodyHeigh; i++) // car's body
+            {
+                if (i == 1)
+                {
+                    int bodyMidInt = (n * 2) - 2;
+                    string bodyMid = new string('.', bodyMidInt);
+                    string bodyUp = new string('*', (carWidth - bodyMidInt) / 2);
+                    Console.WriteLine("{0}{1}{0}", bodyUp, bodyMid);
+                }
+
+                if (i > 1 && i < bodyHeigh)
+                {
+                    string bodyDotMiddle = new string('.', carWidth - 2);
+                    Console.WriteLine("{0}{1}{0}", "*", bodyDotMiddle);
+                }
+
+                if (i == bodyHeigh)
+                {
+                    string bodyDown = new string('*', carWidth);
+                    Console.WriteLine(bodyDown);
+                }
+            }
+
+            int carWheelsHeigh = n / 2 - 1;
+            for (int i = 1; i <= carWheelsHeigh; i++) // car's wheel
+		{
+                int wheelStartEnd =  n / 2;
+                string  wheelStartEndDots = new string('.', wheelStartEnd);
+                int dotBetween = n - 2;
+                string dotBetweenWheel = new string('.', dotBetween);
+                int wheelWidthInt = (carWidth - (wheelStartEnd * 2) - dotBetween) / 2;
+                string wheelWidth = new string('*', wheelWidthInt);
+                string dotInWheel = new string('.', wheelWidthInt - 2);
+
+                if (i < carWheelsHeigh)
+                {
+                    Console.WriteLine("{0}{1}{2}{1}{3}{1}{2}{1}{0}", wheelStartEndDots, "*", dotInWheel, dotBetweenWheel, wheelWidth);
+                }
+
+                if (i == carWheelsHeigh)
+                {
+                    string wholeWheel = new string('*', (carWidth - (wheelStartEnd * 2) - dotBetween) / 2);
+                    Console.WriteLine("{0}{1}{2}{1}{0}", wheelStartEndDots, wholeWheel, dotBetweenWheel);
+                }
+		}
+        }
+
+        else
+        {
+            Console.WriteLine("Invalid Input !");
+        }
+    }
+}

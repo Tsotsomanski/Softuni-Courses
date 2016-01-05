@@ -1,0 +1,75 @@
+C:\Users\John\Documents\c#Game\trunk\pikachu\pikachu\bin\Debug\pikachu.exe.config
+C:\Users\John\Documents\c#Game\trunk\pikachu\pikachu\bin\Debug\pikachu.exe
+C:\Users\John\Documents\c#Game\trunk\pikachu\pikachu\bin\Debug\pikachu.pdb
+C:\Users\John\Documents\c#Game\trunk\pikachu\pikachu\obj\Debug\pikachu.csprojResolveAssemblyReference.cache
+C:\Users\John\Documents\c#Game\trunk\pikachu\pikachu\obj\Debug\pikachu.Properties.Resources.resources
+C:\Users\John\Documents\c#Game\trunk\pikachu\pikachu\obj\Debug\pikachu.csproj.GenerateResource.Cache
+C:\Users\John\Documents\c#Game\trunk\pikachu\pikachu\obj\Debug\pikachu.exe
+C:\Users\John\Documents\c#Game\trunk\pikachu\pikachu\obj\Debug\pikachu.pdb
+C:\Users\John\Documents\c#Game\trunk\pikachu\pikachu\obj\Debug\pikachu.Form1.resources
+C:\Users\John\Documents\C#game\pikachu\pikachu\bin\Debug\pikachu.exe.config
+C:\Users\John\Documents\C#game\pikachu\pikachu\obj\Debug\pikachu.exe
+C:\Users\John\Documents\C#game\pikachu\pikachu\obj\Debug\pikachu.pdb
+C:\Users\John\Documents\C#game\pikachu\pikachu\bin\Debug\pikachu.exe
+C:\Users\John\Documents\C#game\pikachu\pikachu\bin\Debug\pikachu.pdb
+C:\Users\John\Documents\C#game\pikachu\pikachu\obj\Debug\pikachu.csprojResolveAssemblyReference.cache
+C:\Users\John\Documents\C#game\pikachu\pikachu\obj\Debug\pikachu.Form1.resources
+C:\Users\John\Documents\C#game\pikachu\pikachu\obj\Debug\pikachu.Properties.Resources.resources
+C:\Users\John\Documents\C#game\pikachu\pikachu\obj\Debug\pikachu.csproj.GenerateResource.Cache
+C:\Users\sn3ts\Documents\GitHubCommits\pikachu\pikachu\bin\Debug\pikachu.exe
+C:\Users\sn3ts\Documents\GitHubCommits\pikachu\pikachu\bin\Debug\pikachu.exe.config
+C:\Users\sn3ts\Documents\GitHubCommits\pikachu\pikachu\obj\Debug\pikachu.Properties.Resources.resources
+C:\Users\sn3ts\Documents\GitHubCommits\pikachu\pikachu\obj\Debug\pikachu.csproj.GenerateResource.Cache
+C:\Users\sn3ts\Documents\GitHubCommits\pikachu\pikachu\obj\Debug\pikachu.exe
+C:\Users\sn3ts\Documents\GitHubCommits\pikachu\pikachu\obj\Debug\pikachu.pdb
+C:\Users\sn3ts\Documents\GitHubCommits\pikachu\pikachu\bin\Debug\pikachu.pdb
+C:\Users\sn3ts\Documents\GitHubCommits\pikachu\pikachu\obj\Debug\pikachu.csprojResolveAssemblyReference.cache
+C:\Users\Milko\Desktop\posledno durpane\pikachu-master\pikachu\pikachu\bin\Debug\pikachu.exe.config
+C:\Users\Milko\Desktop\posledno durpane\pikachu-master\pikachu\pikachu\obj\Debug\pikachu.exe
+C:\Users\Milko\Desktop\posledno durpane\pikachu-master\pikachu\pikachu\obj\Debug\pikachu.pdb
+C:\Users\Milko\Desktop\posledno durpane\pikachu-master\pikachu\pikachu\bin\Debug\pikachu.exe
+C:\Users\Milko\Desktop\posledno durpane\pikachu-master\pikachu\pikachu\bin\Debug\pikachu.pdb
+C:\Users\Milko\Desktop\posledno durpane\pikachu-master\pikachu\pikachu\obj\Debug\pikachu.csprojResolveAssemblyReference.cache
+C:\Users\Milko\Desktop\posledno durpane\pikachu-master\pikachu\pikachu\obj\Debug\pikachu.Properties.Resources.resources
+C:\Users\Milko\Desktop\posledno durpane\pikachu-master\pikachu\pikachu\obj\Debug\pikachu.csproj.GenerateResource.Cache
+C:\Users\Milko\Desktop\posledno durpane\pikachu-master\pikachu\pikachu\obj\Debug\pikachu.Level1.resources
+C:\Users\Milko\Desktop\trite niva zaedno\pikachu-master\pikachu\pikachu\bin\Debug\pikachu.exe.config
+C:\Users\Milko\Desktop\trite niva zaedno\pikachu-master\pikachu\pikachu\obj\Debug\pikachu.exe
+C:\Users\Milko\Desktop\trite niva zaedno\pikachu-master\pikachu\pikachu\obj\Debug\pikachu.pdb
+C:\Users\Milko\Desktop\trite niva zaedno\pikachu-master\pikachu\pikachu\bin\Debug\pikachu.exe
+C:\Users\Milko\Desktop\trite niva zaedno\pikachu-master\pikachu\pikachu\bin\Debug\pikachu.pdb
+C:\Users\Milko\Desktop\trite niva zaedno\pikachu-master\pikachu\pikachu\obj\Debug\pikachu.csprojResolveAssemblyReference.cache
+C:\Users\Milko\Desktop\trite niva zaedno\pikachu-master\pikachu\pikachu\obj\Debug\pikachu.Level1.resources
+C:\Users\Milko\Desktop\trite niva zaedno\pikachu-master\pikachu\pikachu\obj\Debug\pikachu.Properties.Resources.resources
+C:\Users\Milko\Desktop\trite niva zaedno\pikachu-master\pikachu\pikachu\obj\Debug\pikachu.csproj.GenerateResource.Cache
+C:\Users\Milko\Desktop\trite niva zaedno\pikachu\pikachu\bin\Debug\pikachu.exe.config
+C:\Users\Milko\Desktop\trite niva zaedno\pikachu\pikachu\obj\Debug\pikachu.exe
+C:\Users\Milko\Desktop\trite niva zaedno\pikachu\pikachu\obj\Debug\pikachu.pdb
+C:\Users\sn3ts\Documents\GitHubCommits\pikachu\pikachu\obj\Debug\pikachu.Level1.resources
+D:\C#\Pichere\pikachu\pikachu\bin\Debug\pikachu.exe.config
+D:\C#\Pichere\pikachu\pikachu\obj\Debug\pikachu.exe
+D:\C#\Pichere\pikachu\pikachu\obj\Debug\pikachu.pdb
+D:\C#\Pichere\pikachu\pikachu\bin\Debug\pikachu.exe
+D:\C#\Pichere\pikachu\pikachu\bin\Debug\pikachu.pdb
+D:\C#\Pichere\pikachu\pikachu\obj\Debug\pikachu.csprojResolveAssemblyReference.cache
+D:\C#\Pichere\pikachu\pikachu\obj\Debug\pikachu.Level1.resources
+D:\C#\Pichere\pikachu\pikachu\obj\Debug\pikachu.Properties.Resources.resources
+D:\C#\Pichere\pikachu\pikachu\obj\Debug\pikachu.csproj.GenerateResource.Cache
+C:\Users\sn3ts\Desktop\pikachu-master\pikachu\pikachu\bin\Debug\pikachu.exe.config
+C:\Users\sn3ts\Desktop\pikachu-master\pikachu\pikachu\obj\Debug\pikachu.exe
+C:\Users\sn3ts\Desktop\pikachu-master\pikachu\pikachu\obj\Debug\pikachu.pdb
+C:\Users\sn3ts\Desktop\pikachu-master\pikachu\pikachu\obj\Debug\pikachu.csprojResolveAssemblyReference.cache
+C:\Users\sn3ts\Desktop\pikachu-master\pikachu\pikachu\obj\Debug\pikachu.Level1.resources
+C:\Users\sn3ts\Desktop\pikachu-master\pikachu\pikachu\obj\Debug\pikachu.Properties.Resources.resources
+C:\Users\sn3ts\Desktop\pikachu-master\pikachu\pikachu\obj\Debug\pikachu.csproj.GenerateResource.Cache
+C:\Users\sn3ts\Desktop\pikachu-master\pikachu\pikachu\bin\Debug\pikachu.exe
+C:\Users\sn3ts\Desktop\pikachu-master\pikachu\pikachu\bin\Debug\pikachu.pdb
+D:\Txt'doc\1. SoftUni\2. Advanced C#\C# TeamWorkGame- Pikachy\pikachu\pikachu\bin\Debug\pikachu.exe.config
+D:\Txt'doc\1. SoftUni\2. Advanced C#\C# TeamWorkGame- Pikachy\pikachu\pikachu\obj\Debug\pikachu.exe
+D:\Txt'doc\1. SoftUni\2. Advanced C#\C# TeamWorkGame- Pikachy\pikachu\pikachu\obj\Debug\pikachu.pdb
+D:\Txt'doc\1. SoftUni\2. Advanced C#\C# TeamWorkGame- Pikachy\pikachu\pikachu\bin\Debug\pikachu.exe
+D:\Txt'doc\1. SoftUni\2. Advanced C#\C# TeamWorkGame- Pikachy\pikachu\pikachu\bin\Debug\pikachu.pdb
+D:\Txt'doc\1. SoftUni\2. Advanced C#\C# TeamWorkGame- Pikachy\pikachu\pikachu\obj\Debug\pikachu.csprojResolveAssemblyReference.cache
+D:\Txt'doc\1. SoftUni\2. Advanced C#\C# TeamWorkGame- Pikachy\pikachu\pikachu\obj\Debug\pikachu.Level1.resources
+D:\Txt'doc\1. SoftUni\2. Advanced C#\C# TeamWorkGame- Pikachy\pikachu\pikachu\obj\Debug\pikachu.Properties.Resources.resources
+D:\Txt'doc\1. SoftUni\2. Advanced C#\C# TeamWorkGame- Pikachy\pikachu\pikachu\obj\Debug\pikachu.csproj.GenerateResource.Cache

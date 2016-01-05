@@ -1,0 +1,84 @@
+using System;
+class SunLight
+{
+    static void Main()
+    {
+        int n = int.Parse(Console.ReadLine());
+        int upBeamsHeigh = n;
+        string asterisk = "*";
+
+        if (n % 2 != 0)
+        {
+            // Top part of the figure
+            for (int iUp = 0; iUp < upBeamsHeigh; iUp++)
+            {
+                if (iUp == 0) 
+                {
+                    string figuresTop = new string('.', ((3 * upBeamsHeigh) - 1) / 2);
+                    Console.WriteLine("{0}{1}{0}", figuresTop, "*"); // first line
+                }
+                             
+		else
+                {
+                    int sunbeamsWidthTop = n * 3;
+                    int dotBefAftInt = iUp;
+                    string dotBefAft = new string('.', iUp);
+                    string dotBet = new string('.', (sunbeamsWidthTop - 3 - dotBefAftInt * 2) / 2);     // Dots at the center
+                   
+                    Console.WriteLine("{0}{1}{2}{1}{2}{1}{0}", dotBefAft,asterisk, dotBet);
+                }
+             }
+
+            // Center of the figure
+            int middle = n;
+            int middleHeigh = n;
+            string dotMiddle = new string('.', middleHeigh);
+            string asteriskMiddle = new string('*', middleHeigh);
+
+            for (int iMidd = 0; iMidd <= n; iMidd++)
+	     {
+                if (iMidd < n / 2)
+                {
+                    Console.WriteLine("{0}{1}{0}", dotMiddle, asteriskMiddle);
+                }
+
+                if (iMidd == n / 2)
+                {
+                    string center = new string('*', 3 * n);
+                    Console.WriteLine(center);
+                }
+
+                if (iMidd > (n + 1) / 2)
+                {
+                    Console.WriteLine("{0}{1}{0}", dotMiddle, asteriskMiddle);
+                }
+		}
+
+            // Down part of the figure
+            int downBeamsHeigh = n;
+            int downBeamsWidth = n * 3;
+            for (int iDown = 1; iDown <= downBeamsHeigh; iDown++)   
+		{
+                if (iDown != downBeamsHeigh)
+                {
+                    int dotAftBef = downBeamsHeigh - iDown;
+                    string dotAftBefDown = new string('.', dotAftBef);
+                    string dotMiddleDown = new string('.', (downBeamsWidth - 3 - dotAftBef * 2) / 2); // Dots at the center
+                    
+		    Console.WriteLine("{0}{1}{2}{1}{2}{1}{0}", dotAftBefDown, asterisk, dotMiddleDown);    
+                }
+
+                if (iDown == downBeamsHeigh)
+                {
+                    string endAsterisk = new string('.', (n * 3 - 1) / 2);
+                    Console.WriteLine("{0}{1}{0}", endAsterisk, asterisk); // Last row
+                }
+		}
+		}
+
+        else
+        {
+            Console.WriteLine("Invalid input!");
+        }
+    }
+}
