@@ -1,0 +1,403 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="WindowsFormsApplication1.ChooseCategoryScreen" Collapsed="true">
+    <Position X="21.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAgBAAAoACAAAAAAAECACAgCAAIQAAAAABAIAAAAgAI=</HashCode>
+      <FileName>ChooseCategoryScreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApplication1.ChooseCharacterScreen" Collapsed="true">
+    <Position X="23.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAgAAACAAAACgAAgAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>ChooseCharacterScreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApplication1.EndScreen" Collapsed="true">
+    <Position X="25.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAACAAACAAAACEgAAAAAABAAAAABAIgA=</HashCode>
+      <FileName>EndScreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApplication1.Instructions" Collapsed="true">
+    <Position X="20" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAABAAACAAAACAAACAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>Instructions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApplication1.Jedi" Collapsed="true">
+    <Position X="21.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>RDiAIAQAUTpAGgCrECKBAkgCCAkZARQAICYQxECByKA=</HashCode>
+      <FileName>Jedi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApplication1.Paduin" Collapsed="true">
+    <Position X="20" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BABAAlAAACAAAhQBAACAAAgCAAAABgABAqAgABBAAAI=</HashCode>
+      <FileName>Paduin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApplication1.PlayScreen" Collapsed="true">
+    <Position X="21.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>WQSF+hAQAOgQCV4QEIDQRBQu0QABRoAAaTBoAIBAsIA=</HashCode>
+      <FileName>PlayScreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApplication1.Program" Collapsed="true">
+    <Position X="23.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApplication1.Question" Collapsed="true">
+    <Position X="21.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABgKAAACAAIAIAAACAAgACBACAAAAAACAAAAAABAM=</HashCode>
+      <FileName>Question.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApplication1.StartingScreen" Collapsed="true">
+    <Position X="25.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BgAAAACAACgAAAAAAAKAAAACABAIIAABgEAAAAAAAAA=</HashCode>
+      <FileName>StartingScreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApplication1.Jedis.AsistentJedi.Assistant" Collapsed="true">
+    <Position X="1.75" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAABAgQBAAAAAAAAAAAAAAQAEAIAAAAAAAEA=</HashCode>
+      <FileName>Jedis\AsistentJedi\Assistant.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="WindowsFormsApplication1.Jedis.AsistentJedi.ChubiEdo" Collapsed="true">
+    <Position X="0.5" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAgAABAgQAAAAAAAAAAAAAAAAAAAIAAAAAAAEA=</HashCode>
+      <FileName>Jedis\AsistentJedi\ChubiEdo.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="WindowsFormsApplication1.Jedis.AsistentJedi.R2Trifon2" Collapsed="true">
+    <Position X="2.75" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAgAABAgQAAAAAAAAAAAAAAAAAAAIAAAAAAAEA=</HashCode>
+      <FileName>Jedis\AsistentJedi\R2Trifon2.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="WindowsFormsApplication1.Jedis.AssistantJediFactory" Collapsed="true">
+    <Position X="20" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>Jedis\AssistantJediFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApplication1.Jedis.Jedi" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAgAAAAgEAAQAAAAAgAAAAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Jedis\Jedi.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="WindowsFormsApplication1.Jedis.JediFactory" Collapsed="true">
+    <Position X="23.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Jedis\JediFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApplication1.Jedis.JediKnight.AchoUanKenobi" Collapsed="true">
+    <Position X="7.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACQAAAAgAAAAgEAAQAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Jedis\JediKnight\AchoUanKenobi.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="WindowsFormsApplication1.Jedis.JediKnight.JediKnight" Collapsed="true">
+    <Position X="5.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAACgAAAAgEAAQBAAAAgAAAAACAAAAAAAAAAEAAA=</HashCode>
+      <FileName>Jedis\JediKnight\JediKnight.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="WindowsFormsApplication1.Jedis.JediKnight.NaskoSolo" Collapsed="true">
+    <Position X="3" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACQAAAAgAAAAgEAAQAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Jedis\JediKnight\NaskoSolo.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="WindowsFormsApplication1.Jedis.JediKnight.RoyalSkyWalker" Collapsed="true">
+    <Position X="5.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACQAAAAgAAAAgEAAQAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Jedis\JediKnight\RoyalSkyWalker.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="WindowsFormsApplication1.Jedis.Masters.JoNakov" Collapsed="true">
+    <Position X="0.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACQAAAAgAAAAgEAAQAAAAAgAAAAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Jedis\Masters\JoNakov.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="WindowsFormsApplication1.Jedis.Masters.Masters" Collapsed="true">
+    <Position X="0.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAgAAAABAAAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>Jedis\Masters\Masters.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="WindowsFormsApplication1.Paduins.PadoinFactor" Collapsed="true">
+    <Position X="25.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Paduins\PadoinFactor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApplication1.Paduins.Paduin.CountSevgin" Collapsed="true">
+    <Position X="5.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAABgAAAAAAAAAAAAEAAAAAAgCAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Paduins\Paduin\CountSevgin.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="WindowsFormsApplication1.Paduins.Paduin.Karnobatman" Collapsed="true">
+    <Position X="7.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAABgAAAAAAAAAAAAEAAAAAAgCAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Paduins\Paduin\Karnobatman.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="WindowsFormsApplication1.Paduins.Paduin.SashoFett" Collapsed="true">
+    <Position X="0.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAABgAAAAAAAAAAAAEAAAAAAgCAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Paduins\Paduin\SashoFett.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="WindowsFormsApplication1.Paduins.Paduin.WightJan" Collapsed="true">
+    <Position X="3" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAABgAAAAAAAAAAAAEAAAAAAgCAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Paduins\Paduin\WightJan.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="WindowsFormsApplication1.Paduins.Paduin.Paduin" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAABgAAAAIAAQAAAAEAAAAAAgCAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Paduins\Paduin.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="WindowsFormsApplication1.Properties.Settings" Collapsed="true">
+    <Position X="23.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApplication1.Quests.Quest" Collapsed="true">
+    <Position X="25.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAQAAAgAAAAA=</HashCode>
+      <FileName>Quests\Quest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApplication1.Quests.QuestFactory" Collapsed="true">
+    <Position X="20" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAQAAAAAAAAACAAAAAAAAAAAAAAAAAAQAAAA=</HashCode>
+      <FileName>Quests\QuestFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="WindowsFormsApplication1.Interface.IJedi.IAssistants.IAssistants" Collapsed="true">
+    <Position X="6.75" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAABAgQAAAAAAAAAAAAAAAAAAAIAAAAAAAEA=</HashCode>
+      <FileName>Interface\IJedi\IAssistants\IAsistents.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="WindowsFormsApplication1.Interface.IJedi.IAssistants.IChubiEdo" Collapsed="true">
+    <Position X="7.75" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interface\IJedi\IAssistants\IChubiEdo.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="WindowsFormsApplication1.Interface.IJedi.IAssistants.IR2Trifon2" Collapsed="true">
+    <Position X="5.5" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interface\IJedi\IAssistants\IR2Trifon2.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="WindowsFormsApplication1.Interface.IJedi.IJedi" Collapsed="true">
+    <Position X="14" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAgAAAAgEAAQAAAAAAAAAAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interface\IJedi\IJedi.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="WindowsFormsApplication1.Interface.IJedi.IJediKnight.IAchoUanKenobi" Collapsed="true">
+    <Position X="10.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interface\IJedi\IJediKnight\IAchoUanKenobi.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="WindowsFormsApplication1.Interface.IJedi.IJediKnight.IJediKnight" Collapsed="true">
+    <Position X="13" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interface\IJedi\IJediKnight\IJediKnight.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="WindowsFormsApplication1.Interface.IJedi.IJediKnight.INaskoSolo" Collapsed="true">
+    <Position X="13" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interface\IJedi\IJediKnight\INaskoSolo.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="WindowsFormsApplication1.Interface.IJedi.IJediKnight.IRoyalSkyWalker" Collapsed="true">
+    <Position X="15.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interface\IJedi\IJediKnight\IRoyalSkywalker.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="WindowsFormsApplication1.Interface.IJedi.IMasters.IJoNakov" Collapsed="true">
+    <Position X="17.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interface\IJedi\IMasters\IJoNakov.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="WindowsFormsApplication1.Interface.IJedi.IMasters.IMasters" Collapsed="true">
+    <Position X="17.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interface\IJedi\IMasters\IMasters.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="WindowsFormsApplication1.Interface.IPadaun.IAssistantPaduin.IAssistantPaduin" Collapsed="true">
+    <Position X="11.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAgQAAAAAAAAAAAAAAAAAAAIAAAAAAAEA=</HashCode>
+      <FileName>Interface\IPadaun\IAssistantPaduin\IAssistantPaduin.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="WindowsFormsApplication1.Interface.IPadaun.IAssistantPaduin.IFugelmanToWookie" Collapsed="true">
+    <Position X="10.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interface\IPadaun\IAssistantPaduin\IFugelmanToWookie.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="WindowsFormsApplication1.Interface.IPadaun.IAssistantPaduin.ISipiTriBitiO" Collapsed="true">
+    <Position X="12.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interface\IPadaun\IAssistantPaduin\ISipiTriBitiO.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="WindowsFormsApplication1.Interface.IPadaun.IPaduinStudents.ICountSevgin" Collapsed="true">
+    <Position X="0.75" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interface\IPadaun\IPaduinStudents\ICountSevgin.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="WindowsFormsApplication1.Interface.IPadaun.IPaduinStudents.IKarnobatmanFromKranobasterdam" Collapsed="true">
+    <Position X="3" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interface\IPadaun\IPaduinStudents\IKarnobatmanBane.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="WindowsFormsApplication1.Interface.IPadaun.IPaduinStudents.IPaduin" Collapsed="true">
+    <Position X="4" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABgAAAAAAAAAAAAEAAAAAAgCAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interface\IPadaun\IPaduinStudents\IPaduin.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="WindowsFormsApplication1.Interface.IPadaun.IPaduinStudents.ISashoFett" Collapsed="true">
+    <Position X="5.25" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interface\IPadaun\IPaduinStudents\ISashoFett.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="WindowsFormsApplication1.Interface.IPadaun.IPaduinStudents.IWightJan" Collapsed="true">
+    <Position X="7.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interface\IPadaun\IPaduinStudents\IWightJan.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="WindowsFormsApplication1.Direction" Collapsed="true">
+    <Position X="23.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACIAAAAAAAAAAAAAAAAAAAAAAAAACACAAAEAAAI=</HashCode>
+      <FileName>Direction.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="WindowsFormsApplication1.Interface.AssistantJediType" Collapsed="true">
+    <Position X="20" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interface\AssistantJediType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="WindowsFormsApplication1.Interface.AssistantPaduinType" Collapsed="true">
+    <Position X="21.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interface\AssistantPaduinType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="WindowsFormsApplication1.Interface.JediType" Collapsed="true">
+    <Position X="25.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAAAAABAAAAECAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interface\JediType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="WindowsFormsApplication1.Paduins.PaduinType" Collapsed="true">
+    <Position X="20" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgCAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>Paduins\PaduinType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="WindowsFormsApplication1.Quests.QuestionType" Collapsed="true">
+    <Position X="21.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAACAAAABAAIABAAEAAAAIAAAACAAAA=</HashCode>
+      <FileName>Quests\QuestionType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

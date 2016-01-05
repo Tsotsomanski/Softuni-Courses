@@ -1,0 +1,231 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{5CD0E9C0-4C36-4EE2-BCCE-B66F582A01A1}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>WindowsFormsApplication1</RootNamespace>
+    <AssemblyName>WindowsFormsApplication1</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ChooseCategoryScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChooseCategoryScreen.Designer.cs">
+      <DependentUpon>ChooseCategoryScreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ChooseCharacterScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChooseCharacterScreen.Designer.cs">
+      <DependentUpon>ChooseCharacterScreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Direction.cs" />
+    <Compile Include="EndScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EndScreen.Designer.cs">
+      <DependentUpon>EndScreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Instructions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Instructions.Designer.cs">
+      <DependentUpon>Instructions.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interface\AssistantJediType.cs" />
+    <Compile Include="Interface\AssistantPaduinType.cs" />
+    <Compile Include="Interface\IJedi\IAssistants\IAsistents.cs" />
+    <Compile Include="Interface\IJedi\IAssistants\IChubiEdo.cs" />
+    <Compile Include="Interface\IJedi\IAssistants\IR2Trifon2.cs" />
+    <Compile Include="Interface\IJedi\IJedi.cs" />
+    <Compile Include="Interface\IJedi\IJediKnight\IAchoUanKenobi.cs" />
+    <Compile Include="Interface\IJedi\IJediKnight\IJediKnight.cs" />
+    <Compile Include="Interface\IJedi\IJediKnight\INaskoSolo.cs" />
+    <Compile Include="Interface\IJedi\IJediKnight\IRoyalSkywalker.cs" />
+    <Compile Include="Interface\IJedi\IMasters\IJoNakov.cs" />
+    <Compile Include="Interface\IJedi\IMasters\IMasters.cs" />
+    <Compile Include="Interface\IPadaun\IAssistantPaduin\IAssistantPaduin.cs" />
+    <Compile Include="Interface\IPadaun\IAssistantPaduin\IFugelmanToWookie.cs" />
+    <Compile Include="Interface\IPadaun\IAssistantPaduin\ISipiTriBitiO.cs" />
+    <Compile Include="Interface\IPadaun\IPaduinStudents\ICountSevgin.cs" />
+    <Compile Include="Interface\IPadaun\IPaduinStudents\IKarnobatmanBane.cs" />
+    <Compile Include="Interface\IPadaun\IPaduinStudents\IPaduin.cs" />
+    <Compile Include="Interface\IPadaun\IPaduinStudents\ISashoFett.cs" />
+    <Compile Include="Interface\IPadaun\IPaduinStudents\IWightJan.cs" />
+    <Compile Include="Interface\JediType.cs" />
+    <Compile Include="Paduins\PaduinType.cs" />
+    <Compile Include="Jedi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Jedi.Designer.cs">
+      <DependentUpon>Jedi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Jedis\AsistentJedi\Assistant.cs" />
+    <Compile Include="Jedis\AsistentJedi\ChubiEdo.cs" />
+    <Compile Include="Jedis\AsistentJedi\R2Trifon2.cs" />
+    <Compile Include="Jedis\AssistantJediFactory.cs" />
+    <Compile Include="Jedis\Jedi.cs" />
+    <Compile Include="Jedis\JediFactory.cs" />
+    <Compile Include="Jedis\JediKnight\AchoUanKenobi.cs" />
+    <Compile Include="Jedis\JediKnight\JediKnight.cs" />
+    <Compile Include="Jedis\JediKnight\NaskoSolo.cs" />
+    <Compile Include="Jedis\JediKnight\RoyalSkyWalker.cs" />
+    <Compile Include="Jedis\Masters\JoNakov.cs" />
+    <Compile Include="Jedis\Masters\Masters.cs" />
+    <Compile Include="Paduin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Paduin.Designer.cs">
+      <DependentUpon>Paduin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Paduins\PadoinFactor.cs" />
+    <Compile Include="Paduins\Paduin\CountSevgin.cs" />
+    <Compile Include="Paduins\Paduin\Karnobatman.cs" />
+    <Compile Include="Paduins\Paduin.cs" />
+    <Compile Include="Paduins\Paduin\SashoFett.cs" />
+    <Compile Include="Paduins\Paduin\WightJan.cs" />
+    <Compile Include="PlayScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PlayScreen.Designer.cs">
+      <DependentUpon>PlayScreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Question.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Question.Designer.cs">
+      <DependentUpon>Question.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Quests\Quest.cs" />
+    <Compile Include="Quests\QuestFactory.cs" />
+    <Compile Include="Quests\QuestionType.cs" />
+    <Compile Include="StartingScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StartingScreen.Designer.cs">
+      <DependentUpon>StartingScreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="ChooseCategoryScreen.resx">
+      <DependentUpon>ChooseCategoryScreen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChooseCharacterScreen.resx">
+      <DependentUpon>ChooseCharacterScreen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EndScreen.resx">
+      <DependentUpon>EndScreen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Instructions.en-001.resx">
+      <DependentUpon>Instructions.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Instructions.resx">
+      <DependentUpon>Instructions.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Jedi.resx">
+      <DependentUpon>Jedi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Paduin.resx">
+      <DependentUpon>Paduin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PlayScreen.resx">
+      <DependentUpon>PlayScreen.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Question.resx">
+      <DependentUpon>Question.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StartingScreen.resx">
+      <DependentUpon>StartingScreen.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\Acho.png" />
+    <None Include="Resources\Trifon1.png" />
+    <None Include="Resources\Angel.png" />
+    <Content Include="Resources\AngelSecond.png" />
+    <Content Include="Resources\BattleGameSpace.jpg" />
+    <Content Include="Resources\BattleMenu2.jpg" />
+    <Content Include="Resources\BattleMenuMatrix.jpg" />
+    <Content Include="Resources\Beer.png" />
+    <Content Include="Resources\Cplusplus.png" />
+    <Content Include="Resources\csharp.png" />
+    <Content Include="Resources\Edo.png" />
+    <None Include="Resources\Edo1.png" />
+    <Content Include="Resources\EdoSecond.png" />
+    <Content Include="Resources\Jan.png" />
+    <Content Include="Resources\Java.png" />
+    <Content Include="Resources\Nakov.png" />
+    <None Include="Resources\Nakov1.png" />
+    <Content Include="Resources\NakovSecond.png" />
+    <Content Include="Resources\Nasko.png" />
+    <None Include="Resources\Nasko1.png" />
+    <Content Include="Resources\NaskoSecond.png" />
+    <Content Include="Resources\Oop.png" />
+    <Content Include="Resources\Qncho.png" />
+    <Content Include="Resources\Royal.png" />
+    <None Include="Resources\Royal1.png" />
+    <Content Include="Resources\RoyalSecond.png" />
+    <Content Include="Resources\Sasho.png" />
+    <Content Include="Resources\Sevgin.png" />
+    <Content Include="Resources\Trifon.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

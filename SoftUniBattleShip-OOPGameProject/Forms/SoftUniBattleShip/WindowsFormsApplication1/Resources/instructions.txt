@@ -1,0 +1,25 @@
+SoftUni BattleShip 
+
+Press the (choose character) button
+then (jedi) button 
+choose one enemy paduin
+and one enemy assistant 
+and (save)
+then press the (paduin) button
+choose your paduin character 
+and (save) 
+press the (choose category)
+OOP, C#, C++, Java
+and (save)
+
+You have one shoot 
+The enemies jedi will shoot you with the category you choose (some shoots have questions
+if you dont answer correct your knowledge will increase with 30 K), the assistant shoots you with
+alcohol which increase your drunk
+
+The winner is the enemies if they first increase your drunk and knowledge !
+You win if you first increase the jedis and assistants drunk !
+
+Good Luck
+ 
+	
