@@ -1,0 +1,6 @@
+c:\users\sn3ts\documents\visual studio 2015\Projects\ProspectInHospitality\ProspectInHospitality\bin\Debug\ProspectInHospitality.exe.config
+c:\users\sn3ts\documents\visual studio 2015\Projects\ProspectInHospitality\ProspectInHospitality\bin\Debug\ProspectInHospitality.exe
+c:\users\sn3ts\documents\visual studio 2015\Projects\ProspectInHospitality\ProspectInHospitality\bin\Debug\ProspectInHospitality.pdb
+c:\users\sn3ts\documents\visual studio 2015\Projects\ProspectInHospitality\ProspectInHospitality\obj\Debug\ProspectInHospitality.csprojResolveAssemblyReference.cache
+c:\users\sn3ts\documents\visual studio 2015\Projects\ProspectInHospitality\ProspectInHospitality\obj\Debug\ProspectInHospitality.exe
+c:\users\sn3ts\documents\visual studio 2015\Projects\ProspectInHospitality\ProspectInHospitality\obj\Debug\ProspectInHospitality.pdb
