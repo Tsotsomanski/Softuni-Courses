@@ -1,0 +1,2 @@
+C:\Users\Filip Kolev\Desktop\oop\June-2015\04. OOP-Encapsulation-and-Polymorphism-Exercise-1\AnimalFarm\bin\Debug\AnimalFarm.exe.config
+D:\Txt'doc\1. SoftUni\7. OOP\7.EncapsulationAndPolymorphism\04. OOP-Encapsulation-and-Polymorphism-Exercise-1\AnimalFarm\bin\Debug\AnimalFarm.exe.config
