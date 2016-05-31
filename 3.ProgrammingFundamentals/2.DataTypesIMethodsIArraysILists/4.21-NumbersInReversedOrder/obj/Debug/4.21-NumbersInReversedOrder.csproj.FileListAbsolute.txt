@@ -1,0 +1,6 @@
+P:\2.Programming\2.ProgrammingFundamentals\4.21-NumbersInReversedOrder\bin\Debug\4.21-NumbersInReversedOrder.exe.config
+P:\2.Programming\2.ProgrammingFundamentals\4.21-NumbersInReversedOrder\bin\Debug\4.21-NumbersInReversedOrder.exe
+P:\2.Programming\2.ProgrammingFundamentals\4.21-NumbersInReversedOrder\bin\Debug\4.21-NumbersInReversedOrder.pdb
+P:\2.Programming\2.ProgrammingFundamentals\4.21-NumbersInReversedOrder\obj\Debug\4.21-NumbersInReversedOrder.csprojResolveAssemblyReference.cache
+P:\2.Programming\2.ProgrammingFundamentals\4.21-NumbersInReversedOrder\obj\Debug\4.21-NumbersInReversedOrder.exe
+P:\2.Programming\2.ProgrammingFundamentals\4.21-NumbersInReversedOrder\obj\Debug\4.21-NumbersInReversedOrder.pdb

@@ -1,0 +1,6 @@
+c:\users\sn3ts\documents\visual studio 2015\Projects\ProgrammingFundamentals\CodeDebugging\bin\Debug\CodeDebugging.exe.config
+c:\users\sn3ts\documents\visual studio 2015\Projects\ProgrammingFundamentals\CodeDebugging\bin\Debug\CodeDebugging.exe
+c:\users\sn3ts\documents\visual studio 2015\Projects\ProgrammingFundamentals\CodeDebugging\bin\Debug\CodeDebugging.pdb
+c:\users\sn3ts\documents\visual studio 2015\Projects\ProgrammingFundamentals\CodeDebugging\obj\Debug\1.01-CodeDebugging.csprojResolveAssemblyReference.cache
+c:\users\sn3ts\documents\visual studio 2015\Projects\ProgrammingFundamentals\CodeDebugging\obj\Debug\CodeDebugging.exe
+c:\users\sn3ts\documents\visual studio 2015\Projects\ProgrammingFundamentals\CodeDebugging\obj\Debug\CodeDebugging.pdb

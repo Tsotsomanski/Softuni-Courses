@@ -1,0 +1,6 @@
+P:\2.Programming\ProgrammingFundamentals\3.01-CenturiesToMinutes\bin\Debug\3.01-CenturiesToMinutes.exe.config
+P:\2.Programming\ProgrammingFundamentals\3.01-CenturiesToMinutes\bin\Debug\3.01-CenturiesToMinutes.exe
+P:\2.Programming\ProgrammingFundamentals\3.01-CenturiesToMinutes\bin\Debug\3.01-CenturiesToMinutes.pdb
+P:\2.Programming\ProgrammingFundamentals\3.01-CenturiesToMinutes\obj\Debug\3.01-CenturiesToMinutes.csprojResolveAssemblyReference.cache
+P:\2.Programming\ProgrammingFundamentals\3.01-CenturiesToMinutes\obj\Debug\3.01-CenturiesToMinutes.exe
+P:\2.Programming\ProgrammingFundamentals\3.01-CenturiesToMinutes\obj\Debug\3.01-CenturiesToMinutes.pdb

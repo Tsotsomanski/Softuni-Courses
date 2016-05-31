@@ -1,0 +1,6 @@
+P:\2.Programming\ProgrammingFundamentals\3.03-ExactSumOfRealNums\bin\Debug\3.03-ExactSumOfRealNums.exe.config
+P:\2.Programming\ProgrammingFundamentals\3.03-ExactSumOfRealNums\bin\Debug\3.03-ExactSumOfRealNums.exe
+P:\2.Programming\ProgrammingFundamentals\3.03-ExactSumOfRealNums\bin\Debug\3.03-ExactSumOfRealNums.pdb
+P:\2.Programming\ProgrammingFundamentals\3.03-ExactSumOfRealNums\obj\Debug\3.03-ExactSumOfRealNums.csprojResolveAssemblyReference.cache
+P:\2.Programming\ProgrammingFundamentals\3.03-ExactSumOfRealNums\obj\Debug\3.03-ExactSumOfRealNums.exe
+P:\2.Programming\ProgrammingFundamentals\3.03-ExactSumOfRealNums\obj\Debug\3.03-ExactSumOfRealNums.pdb

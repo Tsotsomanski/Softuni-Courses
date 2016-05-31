@@ -1,0 +1,6 @@
+P:\2.Programming\2.ProgrammingFundamentals\4.12- RectangleProperties\bin\Debug\4.12- RectangleProperties.exe.config
+P:\2.Programming\2.ProgrammingFundamentals\4.12- RectangleProperties\bin\Debug\4.12- RectangleProperties.exe
+P:\2.Programming\2.ProgrammingFundamentals\4.12- RectangleProperties\bin\Debug\4.12- RectangleProperties.pdb
+P:\2.Programming\2.ProgrammingFundamentals\4.12- RectangleProperties\obj\Debug\4.12- RectangleProperties.csprojResolveAssemblyReference.cache
+P:\2.Programming\2.ProgrammingFundamentals\4.12- RectangleProperties\obj\Debug\4.12- RectangleProperties.exe
+P:\2.Programming\2.ProgrammingFundamentals\4.12- RectangleProperties\obj\Debug\4.12- RectangleProperties.pdb

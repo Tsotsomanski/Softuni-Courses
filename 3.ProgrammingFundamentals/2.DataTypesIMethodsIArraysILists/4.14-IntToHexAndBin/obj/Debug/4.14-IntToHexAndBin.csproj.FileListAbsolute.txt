@@ -1,0 +1,5 @@
+P:\2.Programming\2.ProgrammingFundamentals\4.14-IntToHexAndBin\bin\Debug\4.14-IntToHexAndBin.exe.config
+P:\2.Programming\2.ProgrammingFundamentals\4.14-IntToHexAndBin\bin\Debug\4.14-IntToHexAndBin.exe
+P:\2.Programming\2.ProgrammingFundamentals\4.14-IntToHexAndBin\bin\Debug\4.14-IntToHexAndBin.pdb
+P:\2.Programming\2.ProgrammingFundamentals\4.14-IntToHexAndBin\obj\Debug\4.14-IntToHexAndBin.exe
+P:\2.Programming\2.ProgrammingFundamentals\4.14-IntToHexAndBin\obj\Debug\4.14-IntToHexAndBin.pdb

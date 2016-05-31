@@ -1,0 +1,6 @@
+P:\2.Programming\ProgrammingFundamentals\6.03-FoldAndSum\bin\Debug\6.03-FoldAndSum.exe.config
+P:\2.Programming\ProgrammingFundamentals\6.03-FoldAndSum\bin\Debug\6.03-FoldAndSum.exe
+P:\2.Programming\ProgrammingFundamentals\6.03-FoldAndSum\bin\Debug\6.03-FoldAndSum.pdb
+P:\2.Programming\ProgrammingFundamentals\6.03-FoldAndSum\obj\Debug\6.03-FoldAndSum.csprojResolveAssemblyReference.cache
+P:\2.Programming\ProgrammingFundamentals\6.03-FoldAndSum\obj\Debug\6.03-FoldAndSum.exe
+P:\2.Programming\ProgrammingFundamentals\6.03-FoldAndSum\obj\Debug\6.03-FoldAndSum.pdb

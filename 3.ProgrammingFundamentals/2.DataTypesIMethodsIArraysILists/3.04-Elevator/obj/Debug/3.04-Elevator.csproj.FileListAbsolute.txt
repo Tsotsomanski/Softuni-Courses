@@ -1,0 +1,6 @@
+P:\2.Programming\ProgrammingFundamentals\3.04-Elevator\bin\Debug\3.04-Elevator.exe.config
+P:\2.Programming\ProgrammingFundamentals\3.04-Elevator\bin\Debug\3.04-Elevator.exe
+P:\2.Programming\ProgrammingFundamentals\3.04-Elevator\bin\Debug\3.04-Elevator.pdb
+P:\2.Programming\ProgrammingFundamentals\3.04-Elevator\obj\Debug\3.04-Elevator.exe
+P:\2.Programming\ProgrammingFundamentals\3.04-Elevator\obj\Debug\3.04-Elevator.pdb
+P:\2.Programming\ProgrammingFundamentals\3.04-Elevator\obj\Debug\3.04-Elevator.csprojResolveAssemblyReference.cache

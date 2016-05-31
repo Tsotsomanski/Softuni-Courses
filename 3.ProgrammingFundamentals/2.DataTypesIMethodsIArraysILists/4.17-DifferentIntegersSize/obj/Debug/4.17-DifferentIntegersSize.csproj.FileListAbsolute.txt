@@ -1,0 +1,5 @@
+P:\2.Programming\2.ProgrammingFundamentals\4.17-DifferentIntegersSize\bin\Debug\4.17-DifferentIntegersSize.exe.config
+P:\2.Programming\2.ProgrammingFundamentals\4.17-DifferentIntegersSize\bin\Debug\4.17-DifferentIntegersSize.exe
+P:\2.Programming\2.ProgrammingFundamentals\4.17-DifferentIntegersSize\bin\Debug\4.17-DifferentIntegersSize.pdb
+P:\2.Programming\2.ProgrammingFundamentals\4.17-DifferentIntegersSize\obj\Debug\4.17-DifferentIntegersSize.exe
+P:\2.Programming\2.ProgrammingFundamentals\4.17-DifferentIntegersSize\obj\Debug\4.17-DifferentIntegersSize.pdb

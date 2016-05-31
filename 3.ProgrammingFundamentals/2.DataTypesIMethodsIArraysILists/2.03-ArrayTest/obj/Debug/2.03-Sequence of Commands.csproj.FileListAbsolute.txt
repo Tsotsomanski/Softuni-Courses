@@ -1,0 +1,6 @@
+P:\2.Programming\ProgrammingFundamentals\2.03-ArrayTest\bin\Debug\2.03-ArrayTest.exe.config
+P:\2.Programming\ProgrammingFundamentals\2.03-ArrayTest\bin\Debug\2.03-ArrayTest.exe
+P:\2.Programming\ProgrammingFundamentals\2.03-ArrayTest\bin\Debug\2.03-ArrayTest.pdb
+P:\2.Programming\ProgrammingFundamentals\2.03-ArrayTest\obj\Debug\2.03-Sequence of Commands.csprojResolveAssemblyReference.cache
+P:\2.Programming\ProgrammingFundamentals\2.03-ArrayTest\obj\Debug\2.03-ArrayTest.exe
+P:\2.Programming\ProgrammingFundamentals\2.03-ArrayTest\obj\Debug\2.03-ArrayTest.pdb

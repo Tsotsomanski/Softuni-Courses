@@ -1,0 +1,6 @@
+P:\2.Programming\ProgrammingFundamentals\5.06-RoundingNumbers\bin\Debug\5.06-RoundingNumbers.exe.config
+P:\2.Programming\ProgrammingFundamentals\5.06-RoundingNumbers\bin\Debug\5.06-RoundingNumbers.exe
+P:\2.Programming\ProgrammingFundamentals\5.06-RoundingNumbers\bin\Debug\5.06-RoundingNumbers.pdb
+P:\2.Programming\ProgrammingFundamentals\5.06-RoundingNumbers\obj\Debug\5.06-RoundingNumbers.csprojResolveAssemblyReference.cache
+P:\2.Programming\ProgrammingFundamentals\5.06-RoundingNumbers\obj\Debug\5.06-RoundingNumbers.exe
+P:\2.Programming\ProgrammingFundamentals\5.06-RoundingNumbers\obj\Debug\5.06-RoundingNumbers.pdb

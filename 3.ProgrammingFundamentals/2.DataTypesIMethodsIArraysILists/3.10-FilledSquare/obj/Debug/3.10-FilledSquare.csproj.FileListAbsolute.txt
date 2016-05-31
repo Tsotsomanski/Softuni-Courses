@@ -1,0 +1,9 @@
+P:\2.Programming\ProgrammingFundamentals\3.10-FilledSquare\bin\Debug\3.10-FilledSquare.exe.config
+P:\2.Programming\ProgrammingFundamentals\3.10-FilledSquare\bin\Debug\3.10-FilledSquare.exe
+P:\2.Programming\ProgrammingFundamentals\3.10-FilledSquare\bin\Debug\3.10-FilledSquare.pdb
+P:\2.Programming\ProgrammingFundamentals\3.10-FilledSquare\obj\Debug\3.10-FilledSquare.exe
+P:\2.Programming\ProgrammingFundamentals\3.10-FilledSquare\obj\Debug\3.10-FilledSquare.pdb
+P:\2.Programming\ProgrammingFundamentals\3.10-FilledSquare\obj\Debug\3.10-FilledSquare.csprojResolveAssemblyReference.cache
+P:\2.Programming\2.ProgrammingFundamentals\3.10-FilledSquare\bin\Debug\3.10-FilledSquare.exe.config
+P:\2.Programming\2.ProgrammingFundamentals\3.10-FilledSquare\obj\Debug\3.10-FilledSquare.exe
+P:\2.Programming\2.ProgrammingFundamentals\3.10-FilledSquare\obj\Debug\3.10-FilledSquare.pdb

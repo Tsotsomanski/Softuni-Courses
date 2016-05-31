@@ -1,0 +1,6 @@
+P:\2.Programming\ProgrammingFundamentals\5.06-TriplesOfLetters\bin\Debug\5.06-TriplesOfLetters.exe.config
+P:\2.Programming\ProgrammingFundamentals\5.06-TriplesOfLetters\bin\Debug\5.06-TriplesOfLetters.exe
+P:\2.Programming\ProgrammingFundamentals\5.06-TriplesOfLetters\bin\Debug\5.06-TriplesOfLetters.pdb
+P:\2.Programming\ProgrammingFundamentals\5.06-TriplesOfLetters\obj\Debug\3.06-TriplesOfLetters.csprojResolveAssemblyReference.cache
+P:\2.Programming\ProgrammingFundamentals\5.06-TriplesOfLetters\obj\Debug\5.06-TriplesOfLetters.exe
+P:\2.Programming\ProgrammingFundamentals\5.06-TriplesOfLetters\obj\Debug\5.06-TriplesOfLetters.pdb

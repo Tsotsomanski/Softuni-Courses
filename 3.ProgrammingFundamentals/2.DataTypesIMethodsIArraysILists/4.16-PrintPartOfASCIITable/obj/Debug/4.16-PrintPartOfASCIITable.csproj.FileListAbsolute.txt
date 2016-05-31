@@ -1,0 +1,5 @@
+P:\2.Programming\2.ProgrammingFundamentals\4.16-PrintPartOfASCIITable\bin\Debug\4.16-PrintPartOfASCIITable.exe.config
+P:\2.Programming\2.ProgrammingFundamentals\4.16-PrintPartOfASCIITable\bin\Debug\4.16-PrintPartOfASCIITable.exe
+P:\2.Programming\2.ProgrammingFundamentals\4.16-PrintPartOfASCIITable\bin\Debug\4.16-PrintPartOfASCIITable.pdb
+P:\2.Programming\2.ProgrammingFundamentals\4.16-PrintPartOfASCIITable\obj\Debug\4.16-PrintPartOfASCIITable.exe
+P:\2.Programming\2.ProgrammingFundamentals\4.16-PrintPartOfASCIITable\obj\Debug\4.16-PrintPartOfASCIITable.pdb

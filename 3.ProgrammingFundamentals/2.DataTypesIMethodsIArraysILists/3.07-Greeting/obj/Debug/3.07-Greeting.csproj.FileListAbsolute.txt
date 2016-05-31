@@ -1,0 +1,5 @@
+P:\2.Programming\ProgrammingFundamentals\3.07-Greeting\bin\Debug\3.07-Greeting.exe.config
+P:\2.Programming\ProgrammingFundamentals\3.07-Greeting\bin\Debug\3.07-Greeting.exe
+P:\2.Programming\ProgrammingFundamentals\3.07-Greeting\bin\Debug\3.07-Greeting.pdb
+P:\2.Programming\ProgrammingFundamentals\3.07-Greeting\obj\Debug\3.07-Greeting.exe
+P:\2.Programming\ProgrammingFundamentals\3.07-Greeting\obj\Debug\3.07-Greeting.pdb

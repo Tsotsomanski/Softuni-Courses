@@ -1,0 +1,5 @@
+P:\2.Programming\2.ProgrammingFundamentals\4.02-PracticeFloatingPoints\bin\Debug\4.02-PracticeFloatingPoints.exe.config
+P:\2.Programming\2.ProgrammingFundamentals\4.02-PracticeFloatingPoints\bin\Debug\4.02-PracticeFloatingPoints.exe
+P:\2.Programming\2.ProgrammingFundamentals\4.02-PracticeFloatingPoints\bin\Debug\4.02-PracticeFloatingPoints.pdb
+P:\2.Programming\2.ProgrammingFundamentals\4.02-PracticeFloatingPoints\obj\Debug\4.02-PracticeFloatingPoints.exe
+P:\2.Programming\2.ProgrammingFundamentals\4.02-PracticeFloatingPoints\obj\Debug\4.02-PracticeFloatingPoints.pdb

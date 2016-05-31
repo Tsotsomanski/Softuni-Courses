@@ -1,0 +1,5 @@
+P:\2.Programming\2.ProgrammingFundamentals\4.04-VariableInHexFormat\bin\Debug\4.04-VariableInHexFormat.exe.config
+P:\2.Programming\2.ProgrammingFundamentals\4.04-VariableInHexFormat\bin\Debug\4.04-VariableInHexFormat.exe
+P:\2.Programming\2.ProgrammingFundamentals\4.04-VariableInHexFormat\bin\Debug\4.04-VariableInHexFormat.pdb
+P:\2.Programming\2.ProgrammingFundamentals\4.04-VariableInHexFormat\obj\Debug\4.04-VariableInHexFormat.exe
+P:\2.Programming\2.ProgrammingFundamentals\4.04-VariableInHexFormat\obj\Debug\4.04-VariableInHexFormat.pdb

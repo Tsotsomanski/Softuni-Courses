@@ -1,0 +1,6 @@
+P:\2.Programming\ProgrammingFundamentals\5.07-7. ReverseAnArrayOfStrings\bin\Debug\_5._07_7.ReverseAnArrayOfStrings.exe.config
+P:\2.Programming\ProgrammingFundamentals\5.07-7. ReverseAnArrayOfStrings\bin\Debug\_5._07_7.ReverseAnArrayOfStrings.exe
+P:\2.Programming\ProgrammingFundamentals\5.07-7. ReverseAnArrayOfStrings\bin\Debug\_5._07_7.ReverseAnArrayOfStrings.pdb
+P:\2.Programming\ProgrammingFundamentals\5.07-7. ReverseAnArrayOfStrings\obj\Debug\5.07-7. ReverseAnArrayOfStrings.csprojResolveAssemblyReference.cache
+P:\2.Programming\ProgrammingFundamentals\5.07-7. ReverseAnArrayOfStrings\obj\Debug\_5._07_7.ReverseAnArrayOfStrings.exe
+P:\2.Programming\ProgrammingFundamentals\5.07-7. ReverseAnArrayOfStrings\obj\Debug\_5._07_7.ReverseAnArrayOfStrings.pdb

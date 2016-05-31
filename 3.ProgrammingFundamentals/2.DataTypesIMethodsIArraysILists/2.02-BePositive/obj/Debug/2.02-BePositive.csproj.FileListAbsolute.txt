@@ -1,0 +1,8 @@
+c:\users\sn3ts\documents\visual studio 2015\Projects\ProgrammingFundamentals\2.02-BePositive\bin\Debug\2.02-BePositive.exe.config
+c:\users\sn3ts\documents\visual studio 2015\Projects\ProgrammingFundamentals\2.02-BePositive\bin\Debug\2.02-BePositive.exe
+c:\users\sn3ts\documents\visual studio 2015\Projects\ProgrammingFundamentals\2.02-BePositive\bin\Debug\2.02-BePositive.pdb
+c:\users\sn3ts\documents\visual studio 2015\Projects\ProgrammingFundamentals\2.02-BePositive\obj\Debug\2.02-BePositive.exe
+c:\users\sn3ts\documents\visual studio 2015\Projects\ProgrammingFundamentals\2.02-BePositive\obj\Debug\2.02-BePositive.pdb
+P:\2.Programming\ProgrammingFundamentals\2.02-BePositive\bin\Debug\2.02-BePositive.exe.config
+P:\2.Programming\ProgrammingFundamentals\2.02-BePositive\obj\Debug\2.02-BePositive.exe
+P:\2.Programming\ProgrammingFundamentals\2.02-BePositive\obj\Debug\2.02-BePositive.pdb

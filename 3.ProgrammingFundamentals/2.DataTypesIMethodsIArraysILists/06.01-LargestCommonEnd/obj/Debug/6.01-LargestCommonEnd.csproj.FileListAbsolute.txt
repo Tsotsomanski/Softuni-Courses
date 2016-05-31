@@ -1,0 +1,6 @@
+P:\2.Programming\ProgrammingFundamentals\06.01-LargestCommonEnd\bin\Debug\06.01-LargestCommonEnd.exe.config
+P:\2.Programming\ProgrammingFundamentals\06.01-LargestCommonEnd\bin\Debug\06.01-LargestCommonEnd.exe
+P:\2.Programming\ProgrammingFundamentals\06.01-LargestCommonEnd\bin\Debug\06.01-LargestCommonEnd.pdb
+P:\2.Programming\ProgrammingFundamentals\06.01-LargestCommonEnd\obj\Debug\6.01-LargestCommonEnd.csprojResolveAssemblyReference.cache
+P:\2.Programming\ProgrammingFundamentals\06.01-LargestCommonEnd\obj\Debug\06.01-LargestCommonEnd.exe
+P:\2.Programming\ProgrammingFundamentals\06.01-LargestCommonEnd\obj\Debug\06.01-LargestCommonEnd.pdb

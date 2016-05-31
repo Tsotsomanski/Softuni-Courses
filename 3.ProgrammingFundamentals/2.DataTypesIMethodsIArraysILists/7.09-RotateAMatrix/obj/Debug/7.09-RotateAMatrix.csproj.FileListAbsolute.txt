@@ -1,0 +1,5 @@
+P:\2.Programming\2.ProgrammingFundamentals\7.09-RotateAMatrix\bin\Debug\7.09-RotateAMatrix.exe.config
+P:\2.Programming\2.ProgrammingFundamentals\7.09-RotateAMatrix\bin\Debug\7.09-RotateAMatrix.exe
+P:\2.Programming\2.ProgrammingFundamentals\7.09-RotateAMatrix\bin\Debug\7.09-RotateAMatrix.pdb
+P:\2.Programming\2.ProgrammingFundamentals\7.09-RotateAMatrix\obj\Debug\7.09-RotateAMatrix.exe
+P:\2.Programming\2.ProgrammingFundamentals\7.09-RotateAMatrix\obj\Debug\7.09-RotateAMatrix.pdb
