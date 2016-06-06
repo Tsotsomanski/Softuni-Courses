@@ -3,3 +3,9 @@ P:\2.Programming\ProgrammingFundamentals\5.08-SumArrays\bin\Debug\5.08-SumArrays
 P:\2.Programming\ProgrammingFundamentals\5.08-SumArrays\bin\Debug\5.08-SumArrays.pdb
 P:\2.Programming\ProgrammingFundamentals\5.08-SumArrays\obj\Debug\5.08-SumArrays.exe
 P:\2.Programming\ProgrammingFundamentals\5.08-SumArrays\obj\Debug\5.08-SumArrays.pdb
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\5.08-SumArrays\bin\Debug\5.08-SumArrays.exe.config
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\5.08-SumArrays\obj\Debug\5.08-SumArrays.exe
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\5.08-SumArrays\obj\Debug\5.08-SumArrays.pdb
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\5.08-SumArrays\bin\Debug\5.08-SumArrays.exe
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\5.08-SumArrays\bin\Debug\5.08-SumArrays.pdb
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\5.08-SumArrays\obj\Debug\5.08-SumArrays.csprojResolveAssemblyReference.cache
