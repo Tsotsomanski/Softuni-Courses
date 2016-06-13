@@ -1,0 +1,5 @@
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\5.05-CompareCharArrays\bin\Debug\5.05-CompareCharArrays.exe.config
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\5.05-CompareCharArrays\bin\Debug\5.05-CompareCharArrays.exe
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\5.05-CompareCharArrays\bin\Debug\5.05-CompareCharArrays.pdb
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\5.05-CompareCharArrays\obj\Debug\5.05-CompareCharArrays.exe
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\5.05-CompareCharArrays\obj\Debug\5.05-CompareCharArrays.pdb

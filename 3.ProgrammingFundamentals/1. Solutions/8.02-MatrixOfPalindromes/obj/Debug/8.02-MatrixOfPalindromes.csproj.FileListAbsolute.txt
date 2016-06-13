@@ -1,0 +1,6 @@
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\8.02-MatrixOfPalindromes\bin\Debug\8.02-MatrixOfPalindromes.exe.config
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\8.02-MatrixOfPalindromes\bin\Debug\8.02-MatrixOfPalindromes.exe
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\8.02-MatrixOfPalindromes\bin\Debug\8.02-MatrixOfPalindromes.pdb
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\8.02-MatrixOfPalindromes\obj\Debug\8.02-MatrixOfPalindromes.exe
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\8.02-MatrixOfPalindromes\obj\Debug\8.02-MatrixOfPalindromes.pdb
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\8.02-MatrixOfPalindromes\obj\Debug\8.02-MatrixOfPalindromes.csprojResolveAssemblyReference.cache

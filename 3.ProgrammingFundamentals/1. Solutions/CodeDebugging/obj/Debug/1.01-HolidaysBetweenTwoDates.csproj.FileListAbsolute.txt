@@ -1,0 +1,6 @@
+P:\2.Programming\ProgrammingFundamentals\CodeDebugging\bin\Debug\CodeDebugging.exe.config
+P:\2.Programming\ProgrammingFundamentals\CodeDebugging\obj\Debug\CodeDebugging.exe
+P:\2.Programming\ProgrammingFundamentals\CodeDebugging\obj\Debug\CodeDebugging.pdb
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\CodeDebugging\bin\Debug\CodeDebugging.exe.config
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\CodeDebugging\obj\Debug\CodeDebugging.exe
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\CodeDebugging\obj\Debug\CodeDebugging.pdb

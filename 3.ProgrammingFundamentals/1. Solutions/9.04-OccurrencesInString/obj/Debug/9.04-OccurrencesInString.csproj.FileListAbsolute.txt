@@ -1,0 +1,5 @@
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\9.04-OccurrencesInString\bin\Debug\9.04-OccurrencesInString.exe.config
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\9.04-OccurrencesInString\bin\Debug\9.04-OccurrencesInString.exe
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\9.04-OccurrencesInString\bin\Debug\9.04-OccurrencesInString.pdb
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\9.04-OccurrencesInString\obj\Debug\9.04-OccurrencesInString.exe
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\9.04-OccurrencesInString\obj\Debug\9.04-OccurrencesInString.pdb

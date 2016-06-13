@@ -1,0 +1,6 @@
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\8.08-LargestFrameInMatrix\bin\Debug\8.08-LargestFrameInMatrix.exe.config
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\8.08-LargestFrameInMatrix\bin\Debug\8.08-LargestFrameInMatrix.exe
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\8.08-LargestFrameInMatrix\bin\Debug\8.08-LargestFrameInMatrix.pdb
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\8.08-LargestFrameInMatrix\obj\Debug\8.08-LargestFrameInMatrix.exe
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\8.08-LargestFrameInMatrix\obj\Debug\8.08-LargestFrameInMatrix.pdb
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\8.08-LargestFrameInMatrix\obj\Debug\8.08-LargestFrameInMatrix.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\9.07-OddOccurrences\bin\Debug\9.07-OddOccurrences.exe.config
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\9.07-OddOccurrences\bin\Debug\9.07-OddOccurrences.exe
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\9.07-OddOccurrences\bin\Debug\9.07-OddOccurrences.pdb
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\9.07-OddOccurrences\obj\Debug\9.07-OddOccurrences.exe
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\9.07-OddOccurrences\obj\Debug\9.07-OddOccurrences.pdb
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\9.07-OddOccurrences\obj\Debug\9.07-OddOccurrences.csprojResolveAssemblyReference.cache

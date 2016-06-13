@@ -1,0 +1,6 @@
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\6.08-MostFreqNum\bin\Debug\6.08-MostFreqNum.exe.config
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\6.08-MostFreqNum\bin\Debug\6.08-MostFreqNum.exe
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\6.08-MostFreqNum\bin\Debug\6.08-MostFreqNum.pdb
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\6.08-MostFreqNum\obj\Debug\6.08-MostFreqNum.exe
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\6.08-MostFreqNum\obj\Debug\6.08-MostFreqNum.pdb
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\6.08-MostFreqNum\obj\Debug\6.08-MostFreqNum.csprojResolveAssemblyReference.cache

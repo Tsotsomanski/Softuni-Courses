@@ -1,0 +1,6 @@
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\11.07-SalesReport\bin\Debug\10.07-SalesReport.exe.config
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\11.07-SalesReport\bin\Debug\10.07-SalesReport.exe
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\11.07-SalesReport\bin\Debug\10.07-SalesReport.pdb
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\11.07-SalesReport\obj\Debug\11.07-SalesReport.csprojResolveAssemblyReference.cache
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\11.07-SalesReport\obj\Debug\10.07-SalesReport.exe
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\11.07-SalesReport\obj\Debug\10.07-SalesReport.pdb

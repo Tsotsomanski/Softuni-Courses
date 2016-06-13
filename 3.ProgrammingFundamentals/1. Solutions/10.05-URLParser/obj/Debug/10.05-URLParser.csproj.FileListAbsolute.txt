@@ -1,0 +1,5 @@
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\10.05-URLParser\bin\Debug\10.05-URLParser.exe.config
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\10.05-URLParser\bin\Debug\10.05-URLParser.exe
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\10.05-URLParser\bin\Debug\10.05-URLParser.pdb
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\10.05-URLParser\obj\Debug\10.05-URLParser.exe
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\10.05-URLParser\obj\Debug\10.05-URLParser.pdb

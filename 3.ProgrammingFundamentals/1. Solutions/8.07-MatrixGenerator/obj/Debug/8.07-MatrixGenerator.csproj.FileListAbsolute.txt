@@ -1,0 +1,6 @@
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\8.07-MatrixGenerator\bin\Debug\8.07-MatrixGenerator.exe.config
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\8.07-MatrixGenerator\bin\Debug\8.07-MatrixGenerator.exe
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\8.07-MatrixGenerator\bin\Debug\8.07-MatrixGenerator.pdb
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\8.07-MatrixGenerator\obj\Debug\8.07-MatrixGenerator.csprojResolveAssemblyReference.cache
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\8.07-MatrixGenerator\obj\Debug\8.07-MatrixGenerator.exe
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\8.07-MatrixGenerator\obj\Debug\8.07-MatrixGenerator.pdb

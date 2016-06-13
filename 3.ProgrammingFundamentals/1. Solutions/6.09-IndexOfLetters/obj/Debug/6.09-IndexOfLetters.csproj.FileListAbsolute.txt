@@ -1,0 +1,6 @@
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\6.09-IndexOfLetters\bin\Debug\6.09-IndexOfLetters.exe.config
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\6.09-IndexOfLetters\bin\Debug\6.09-IndexOfLetters.exe
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\6.09-IndexOfLetters\bin\Debug\6.09-IndexOfLetters.pdb
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\6.09-IndexOfLetters\obj\Debug\6.09-IndexOfLetters.csprojResolveAssemblyReference.cache
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\6.09-IndexOfLetters\obj\Debug\6.09-IndexOfLetters.exe
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\6.09-IndexOfLetters\obj\Debug\6.09-IndexOfLetters.pdb

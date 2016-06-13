@@ -1,0 +1,6 @@
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\7.01-RemoveNegativesAndReverse\bin\Debug\7.01-RemoveNegativesAndReverse.exe.config
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\7.01-RemoveNegativesAndReverse\bin\Debug\7.01-RemoveNegativesAndReverse.exe
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\7.01-RemoveNegativesAndReverse\bin\Debug\7.01-RemoveNegativesAndReverse.pdb
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\7.01-RemoveNegativesAndReverse\obj\Debug\7.01-RemoveNegativesAndReverse.csprojResolveAssemblyReference.cache
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\7.01-RemoveNegativesAndReverse\obj\Debug\7.01-RemoveNegativesAndReverse.exe
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\7.01-RemoveNegativesAndReverse\obj\Debug\7.01-RemoveNegativesAndReverse.pdb

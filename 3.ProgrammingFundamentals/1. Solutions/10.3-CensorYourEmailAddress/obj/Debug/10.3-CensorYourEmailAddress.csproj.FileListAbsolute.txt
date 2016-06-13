@@ -1,0 +1,5 @@
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\10.3-CensorYourEmailAddress\bin\Debug\10.3-CensorYourEmailAddress.exe.config
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\10.3-CensorYourEmailAddress\bin\Debug\10.3-CensorYourEmailAddress.exe
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\10.3-CensorYourEmailAddress\bin\Debug\10.3-CensorYourEmailAddress.pdb
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\10.3-CensorYourEmailAddress\obj\Debug\10.3-CensorYourEmailAddress.exe
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\10.3-CensorYourEmailAddress\obj\Debug\10.3-CensorYourEmailAddress.pdb

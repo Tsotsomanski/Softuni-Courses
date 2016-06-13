@@ -1,0 +1,6 @@
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\8.01-MaxSequenceOfEqualElements\bin\Debug\8.01-MaxSequenceOfEqualElements.exe.config
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\8.01-MaxSequenceOfEqualElements\bin\Debug\8.01-MaxSequenceOfEqualElements.exe
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\8.01-MaxSequenceOfEqualElements\bin\Debug\8.01-MaxSequenceOfEqualElements.pdb
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\8.01-MaxSequenceOfEqualElements\obj\Debug\8.01-MaxSequenceOfEqualElements.csprojResolveAssemblyReference.cache
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\8.01-MaxSequenceOfEqualElements\obj\Debug\8.01-MaxSequenceOfEqualElements.exe
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\8.01-MaxSequenceOfEqualElements\obj\Debug\8.01-MaxSequenceOfEqualElements.pdb

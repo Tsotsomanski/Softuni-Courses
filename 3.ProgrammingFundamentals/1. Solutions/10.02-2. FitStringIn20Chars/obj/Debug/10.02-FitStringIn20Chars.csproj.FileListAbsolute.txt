@@ -1,0 +1,5 @@
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\10.02-2. FitStringIn20Chars\bin\Debug\_10._02_2.FitStringIn20Chars.exe.config
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\10.02-2. FitStringIn20Chars\bin\Debug\_10._02_2.FitStringIn20Chars.exe
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\10.02-2. FitStringIn20Chars\bin\Debug\_10._02_2.FitStringIn20Chars.pdb
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\10.02-2. FitStringIn20Chars\obj\Debug\_10._02_2.FitStringIn20Chars.exe
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\10.02-2. FitStringIn20Chars\obj\Debug\_10._02_2.FitStringIn20Chars.pdb

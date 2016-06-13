@@ -1,0 +1,5 @@
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\9.09-ShortWordsSorted\bin\Debug\9.09-ShortWordsSorted.exe.config
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\9.09-ShortWordsSorted\bin\Debug\9.09-ShortWordsSorted.exe
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\9.09-ShortWordsSorted\bin\Debug\9.09-ShortWordsSorted.pdb
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\9.09-ShortWordsSorted\obj\Debug\9.09-ShortWordsSorted.exe
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\9.09-ShortWordsSorted\obj\Debug\9.09-ShortWordsSorted.pdb

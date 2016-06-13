@@ -1,0 +1,6 @@
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\10.01-DayOfWeek\bin\Debug\10.01-DayOfWeek.exe.config
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\10.01-DayOfWeek\bin\Debug\10.01-DayOfWeek.exe
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\10.01-DayOfWeek\bin\Debug\10.01-DayOfWeek.pdb
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\10.01-DayOfWeek\obj\Debug\10.01-DayOfWeek.csprojResolveAssemblyReference.cache
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\10.01-DayOfWeek\obj\Debug\10.01-DayOfWeek.exe
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\10.01-DayOfWeek\obj\Debug\10.01-DayOfWeek.pdb

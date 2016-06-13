@@ -1,0 +1,6 @@
+C:\Users\sn3ts\Documents\visual studio 2015\Projects\ProgrammingFundamentalsExam\2\bin\Debug\2.exe.config
+C:\Users\sn3ts\Documents\visual studio 2015\Projects\ProgrammingFundamentalsExam\2\bin\Debug\2.exe
+C:\Users\sn3ts\Documents\visual studio 2015\Projects\ProgrammingFundamentalsExam\2\bin\Debug\2.pdb
+C:\Users\sn3ts\Documents\visual studio 2015\Projects\ProgrammingFundamentalsExam\2\obj\Debug\2.SoftUniCoffeeOrders.csprojResolveAssemblyReference.cache
+C:\Users\sn3ts\Documents\visual studio 2015\Projects\ProgrammingFundamentalsExam\2\obj\Debug\2.exe
+C:\Users\sn3ts\Documents\visual studio 2015\Projects\ProgrammingFundamentalsExam\2\obj\Debug\2.pdb

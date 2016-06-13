@@ -1,0 +1,6 @@
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\10.08-Palindromes\bin\Debug\10.08-Palindromes.exe.config
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\10.08-Palindromes\bin\Debug\10.08-Palindromes.exe
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\10.08-Palindromes\bin\Debug\10.08-Palindromes.pdb
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\10.08-Palindromes\obj\Debug\10.08-Palindromes.csprojResolveAssemblyReference.cache
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\10.08-Palindromes\obj\Debug\10.08-Palindromes.exe
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\10.08-Palindromes\obj\Debug\10.08-Palindromes.pdb

@@ -1,0 +1,5 @@
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\6.07-MaxSeqOfIncreasingElements\bin\Debug\6.07-MaxSeqOfIncreasingElements.exe.config
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\6.07-MaxSeqOfIncreasingElements\bin\Debug\6.07-MaxSeqOfIncreasingElements.exe
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\6.07-MaxSeqOfIncreasingElements\bin\Debug\6.07-MaxSeqOfIncreasingElements.pdb
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\6.07-MaxSeqOfIncreasingElements\obj\Debug\6.07-MaxSeqOfIncreasingElements.exe
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\6.07-MaxSeqOfIncreasingElements\obj\Debug\6.07-MaxSeqOfIncreasingElements.pdb

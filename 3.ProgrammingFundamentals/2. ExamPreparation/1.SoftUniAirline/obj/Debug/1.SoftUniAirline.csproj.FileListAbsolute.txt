@@ -1,0 +1,6 @@
+c:\users\sn3ts\documents\visual studio 2015\Projects\ProgrammingFundamentalsSampleExamII\ProgrammingFundamentalsSampleExamII\bin\Debug\ProgrammingFundamentalsSampleExamII.exe.config
+c:\users\sn3ts\documents\visual studio 2015\Projects\ProgrammingFundamentalsSampleExamII\ProgrammingFundamentalsSampleExamII\bin\Debug\ProgrammingFundamentalsSampleExamII.exe
+c:\users\sn3ts\documents\visual studio 2015\Projects\ProgrammingFundamentalsSampleExamII\ProgrammingFundamentalsSampleExamII\bin\Debug\ProgrammingFundamentalsSampleExamII.pdb
+c:\users\sn3ts\documents\visual studio 2015\Projects\ProgrammingFundamentalsSampleExamII\ProgrammingFundamentalsSampleExamII\obj\Debug\ProgrammingFundamentalsSampleExamII.exe
+c:\users\sn3ts\documents\visual studio 2015\Projects\ProgrammingFundamentalsSampleExamII\ProgrammingFundamentalsSampleExamII\obj\Debug\ProgrammingFundamentalsSampleExamII.pdb
+c:\users\sn3ts\documents\visual studio 2015\Projects\ProgrammingFundamentalsSampleExamII\ProgrammingFundamentalsSampleExamII\obj\Debug\1.SoftUniAirline.csprojResolveAssemblyReference.cache

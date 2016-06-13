@@ -1,0 +1,6 @@
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\5.09-CondenseArrayToNum\bin\Debug\5.09-CondenseArrayToNum.exe.config
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\5.09-CondenseArrayToNum\bin\Debug\5.09-CondenseArrayToNum.exe
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\5.09-CondenseArrayToNum\bin\Debug\5.09-CondenseArrayToNum.pdb
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\5.09-CondenseArrayToNum\obj\Debug\5.09-CondenseArrayToNum.csprojResolveAssemblyReference.cache
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\5.09-CondenseArrayToNum\obj\Debug\5.09-CondenseArrayToNum.exe
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\5.09-CondenseArrayToNum\obj\Debug\5.09-CondenseArrayToNum.pdb

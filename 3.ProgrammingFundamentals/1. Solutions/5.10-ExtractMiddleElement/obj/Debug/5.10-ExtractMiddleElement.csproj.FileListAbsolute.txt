@@ -1,0 +1,6 @@
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\5.10-ExtractMiddleElement\bin\Debug\5.10-ExtractMiddleElement.exe.config
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\5.10-ExtractMiddleElement\bin\Debug\5.10-ExtractMiddleElement.exe
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\5.10-ExtractMiddleElement\bin\Debug\5.10-ExtractMiddleElement.pdb
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\5.10-ExtractMiddleElement\obj\Debug\5.10-ExtractMiddleElement.csprojResolveAssemblyReference.cache
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\5.10-ExtractMiddleElement\obj\Debug\5.10-ExtractMiddleElement.exe
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\5.10-ExtractMiddleElement\obj\Debug\5.10-ExtractMiddleElement.pdb

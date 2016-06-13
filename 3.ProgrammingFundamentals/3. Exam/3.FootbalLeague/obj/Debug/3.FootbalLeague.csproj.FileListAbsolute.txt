@@ -1,0 +1,6 @@
+c:\users\sn3ts\documents\visual studio 2015\Projects\ProgrammingFundamentalsExam\3\bin\Debug\3.exe.config
+c:\users\sn3ts\documents\visual studio 2015\Projects\ProgrammingFundamentalsExam\3\bin\Debug\3.exe
+c:\users\sn3ts\documents\visual studio 2015\Projects\ProgrammingFundamentalsExam\3\bin\Debug\3.pdb
+c:\users\sn3ts\documents\visual studio 2015\Projects\ProgrammingFundamentalsExam\3\obj\Debug\3.exe
+c:\users\sn3ts\documents\visual studio 2015\Projects\ProgrammingFundamentalsExam\3\obj\Debug\3.pdb
+C:\Users\sn3ts\Documents\visual studio 2015\Projects\ProgrammingFundamentalsExam\3\obj\Debug\3.FootbalLeague.csprojResolveAssemblyReference.cache

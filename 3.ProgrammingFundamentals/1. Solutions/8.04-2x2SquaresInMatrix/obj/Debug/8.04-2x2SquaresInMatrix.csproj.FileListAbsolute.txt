@@ -1,0 +1,5 @@
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\8.04-2x2SquaresInMatrix\bin\Debug\8.04-2x2SquaresInMatrix.exe.config
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\8.04-2x2SquaresInMatrix\bin\Debug\8.04-2x2SquaresInMatrix.exe
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\8.04-2x2SquaresInMatrix\bin\Debug\8.04-2x2SquaresInMatrix.pdb
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\8.04-2x2SquaresInMatrix\obj\Debug\8.04-2x2SquaresInMatrix.exe
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\8.04-2x2SquaresInMatrix\obj\Debug\8.04-2x2SquaresInMatrix.pdb

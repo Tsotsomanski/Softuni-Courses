@@ -1,0 +1,6 @@
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\8.03-DiagonalDifference\bin\Debug\8.03-DiagonalDifference.exe.config
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\8.03-DiagonalDifference\bin\Debug\8.03-DiagonalDifference.exe
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\8.03-DiagonalDifference\bin\Debug\8.03-DiagonalDifference.pdb
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\8.03-DiagonalDifference\obj\Debug\8.03-DiagonalDifference.csprojResolveAssemblyReference.cache
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\8.03-DiagonalDifference\obj\Debug\8.03-DiagonalDifference.exe
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\8.03-DiagonalDifference\obj\Debug\8.03-DiagonalDifference.pdb

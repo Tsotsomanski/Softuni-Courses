@@ -1,0 +1,6 @@
+c:\users\sn3ts\documents\visual studio 2015\Projects\ProgrammingFundamentalsSampleExamII\4.SoftUniCoffeeSupplies\bin\Debug\4.SoftUniCoffeeSupplies.exe.config
+c:\users\sn3ts\documents\visual studio 2015\Projects\ProgrammingFundamentalsSampleExamII\4.SoftUniCoffeeSupplies\bin\Debug\4.SoftUniCoffeeSupplies.exe
+c:\users\sn3ts\documents\visual studio 2015\Projects\ProgrammingFundamentalsSampleExamII\4.SoftUniCoffeeSupplies\bin\Debug\4.SoftUniCoffeeSupplies.pdb
+c:\users\sn3ts\documents\visual studio 2015\Projects\ProgrammingFundamentalsSampleExamII\4.SoftUniCoffeeSupplies\obj\Debug\4.SoftUniCoffeeSupplies.csprojResolveAssemblyReference.cache
+c:\users\sn3ts\documents\visual studio 2015\Projects\ProgrammingFundamentalsSampleExamII\4.SoftUniCoffeeSupplies\obj\Debug\4.SoftUniCoffeeSupplies.exe
+c:\users\sn3ts\documents\visual studio 2015\Projects\ProgrammingFundamentalsSampleExamII\4.SoftUniCoffeeSupplies\obj\Debug\4.SoftUniCoffeeSupplies.pdb

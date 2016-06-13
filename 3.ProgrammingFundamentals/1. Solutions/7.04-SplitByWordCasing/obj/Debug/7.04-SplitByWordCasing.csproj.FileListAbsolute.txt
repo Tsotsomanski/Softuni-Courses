@@ -1,0 +1,5 @@
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\7.04-SplitByWordCasing\bin\Debug\7.04-SplitByWordCasing.exe.config
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\7.04-SplitByWordCasing\bin\Debug\7.04-SplitByWordCasing.exe
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\7.04-SplitByWordCasing\bin\Debug\7.04-SplitByWordCasing.pdb
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\7.04-SplitByWordCasing\obj\Debug\7.04-SplitByWordCasing.exe
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\7.04-SplitByWordCasing\obj\Debug\7.04-SplitByWordCasing.pdb

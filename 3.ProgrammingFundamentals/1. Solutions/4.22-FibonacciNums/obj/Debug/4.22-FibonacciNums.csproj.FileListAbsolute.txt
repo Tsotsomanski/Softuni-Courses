@@ -1,0 +1,6 @@
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\4.22-FibonacciNums\bin\Debug\4.22-FibonacciNums.exe.config
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\4.22-FibonacciNums\bin\Debug\4.22-FibonacciNums.exe
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\4.22-FibonacciNums\bin\Debug\4.22-FibonacciNums.pdb
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\4.22-FibonacciNums\obj\Debug\4.22-FibonacciNums.csprojResolveAssemblyReference.cache
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\4.22-FibonacciNums\obj\Debug\4.22-FibonacciNums.exe
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\4.22-FibonacciNums\obj\Debug\4.22-FibonacciNums.pdb

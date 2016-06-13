@@ -1,0 +1,5 @@
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\12.01-CountWorkDays\bin\Debug\12.01-CountWorkDays.exe.config
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\12.01-CountWorkDays\bin\Debug\12.01-CountWorkDays.exe
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\12.01-CountWorkDays\bin\Debug\12.01-CountWorkDays.pdb
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\12.01-CountWorkDays\obj\Debug\12.01-CountWorkDays.exe
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\12.01-CountWorkDays\obj\Debug\12.01-CountWorkDays.pdb

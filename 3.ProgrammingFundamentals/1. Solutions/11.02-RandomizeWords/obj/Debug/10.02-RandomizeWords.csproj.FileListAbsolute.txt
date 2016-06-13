@@ -1,0 +1,6 @@
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\10.02-RandomizeWords\bin\Debug\10.02-RandomizeWords.exe.config
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\10.02-RandomizeWords\bin\Debug\10.02-RandomizeWords.exe
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\10.02-RandomizeWords\bin\Debug\10.02-RandomizeWords.pdb
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\10.02-RandomizeWords\obj\Debug\10.02-RandomizeWords.csprojResolveAssemblyReference.cache
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\10.02-RandomizeWords\obj\Debug\10.02-RandomizeWords.exe
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\10.02-RandomizeWords\obj\Debug\10.02-RandomizeWords.pdb

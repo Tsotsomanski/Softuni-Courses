@@ -1,0 +1,6 @@
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\9.10-FoldAndSum\bin\Debug\9.10-FoldAndSum.exe.config
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\9.10-FoldAndSum\bin\Debug\9.10-FoldAndSum.exe
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\9.10-FoldAndSum\bin\Debug\9.10-FoldAndSum.pdb
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\9.10-FoldAndSum\obj\Debug\9.10-FoldAndSum.csprojResolveAssemblyReference.cache
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\9.10-FoldAndSum\obj\Debug\9.10-FoldAndSum.exe
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\9.10-FoldAndSum\obj\Debug\9.10-FoldAndSum.pdb

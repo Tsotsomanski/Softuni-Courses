@@ -1,0 +1,5 @@
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\10.04-DistanceBetweenPoints\bin\Debug\10.04-DistanceBetweenPoints.exe.config
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\10.04-DistanceBetweenPoints\bin\Debug\10.04-DistanceBetweenPoints.exe
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\10.04-DistanceBetweenPoints\bin\Debug\10.04-DistanceBetweenPoints.pdb
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\10.04-DistanceBetweenPoints\obj\Debug\10.04-DistanceBetweenPoints.exe
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\10.04-DistanceBetweenPoints\obj\Debug\10.04-DistanceBetweenPoints.pdb

@@ -1,0 +1,2 @@
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\ProgrammingFundamentalsExam\3.1-Example\bin\Debug\3.1-Example.exe.config
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\Exam\3.1-Example\bin\Debug\3.1-Example.exe.config

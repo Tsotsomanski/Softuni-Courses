@@ -1,0 +1,6 @@
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\6.04-PrimeNumbers\bin\Debug\6.04-PrimeNumbers.exe.config
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\6.04-PrimeNumbers\bin\Debug\6.04-PrimeNumbers.exe
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\6.04-PrimeNumbers\bin\Debug\6.04-PrimeNumbers.pdb
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\6.04-PrimeNumbers\obj\Debug\6.04-PrimeNumbers.csprojResolveAssemblyReference.cache
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\6.04-PrimeNumbers\obj\Debug\6.04-PrimeNumbers.exe
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\6.04-PrimeNumbers\obj\Debug\6.04-PrimeNumbers.pdb

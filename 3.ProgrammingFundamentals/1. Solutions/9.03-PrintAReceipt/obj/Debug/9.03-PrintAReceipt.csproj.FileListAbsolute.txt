@@ -1,0 +1,5 @@
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\9.03-PrintAReceipt\bin\Debug\9.03-PrintAReceipt.exe.config
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\9.03-PrintAReceipt\bin\Debug\9.03-PrintAReceipt.exe
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\9.03-PrintAReceipt\bin\Debug\9.03-PrintAReceipt.pdb
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\9.03-PrintAReceipt\obj\Debug\9.03-PrintAReceipt.exe
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\9.03-PrintAReceipt\obj\Debug\9.03-PrintAReceipt.pdb

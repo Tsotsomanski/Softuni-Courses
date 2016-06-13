@@ -1,0 +1,6 @@
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\10.03-BigFactorial\bin\Debug\10.03-BigFactorial.exe.config
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\10.03-BigFactorial\bin\Debug\10.03-BigFactorial.exe
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\10.03-BigFactorial\bin\Debug\10.03-BigFactorial.pdb
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\10.03-BigFactorial\obj\Debug\10.03-BigFactorial.csprojResolveAssemblyReference.cache
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\10.03-BigFactorial\obj\Debug\10.03-BigFactorial.exe
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\10.03-BigFactorial\obj\Debug\10.03-BigFactorial.pdb

@@ -1,0 +1,5 @@
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\7.02-AppendList\bin\Debug\7.02-AppendList.exe.config
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\7.02-AppendList\bin\Debug\7.02-AppendList.exe
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\7.02-AppendList\bin\Debug\7.02-AppendList.pdb
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\7.02-AppendList\obj\Debug\7.02-AppendList.exe
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\7.02-AppendList\obj\Debug\7.02-AppendList.pdb

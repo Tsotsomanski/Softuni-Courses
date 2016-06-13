@@ -1,0 +1,6 @@
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\6.11-EqualSums\bin\Debug\6.11-EqualSums.exe.config
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\6.11-EqualSums\bin\Debug\6.11-EqualSums.exe
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\6.11-EqualSums\bin\Debug\6.11-EqualSums.pdb
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\6.11-EqualSums\obj\Debug\6.11-EqualSums.exe
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\6.11-EqualSums\obj\Debug\6.11-EqualSums.pdb
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\6.11-EqualSums\obj\Debug\6.11-EqualSums.csprojResolveAssemblyReference.cache

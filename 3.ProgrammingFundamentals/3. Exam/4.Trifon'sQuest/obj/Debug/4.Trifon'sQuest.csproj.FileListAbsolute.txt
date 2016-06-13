@@ -1,0 +1,6 @@
+C:\Users\sn3ts\Documents\visual studio 2015\Projects\ProgrammingFundamentalsExam\4\bin\Debug\4.exe.config
+C:\Users\sn3ts\Documents\visual studio 2015\Projects\ProgrammingFundamentalsExam\4\bin\Debug\4.exe
+C:\Users\sn3ts\Documents\visual studio 2015\Projects\ProgrammingFundamentalsExam\4\bin\Debug\4.pdb
+C:\Users\sn3ts\Documents\visual studio 2015\Projects\ProgrammingFundamentalsExam\4\obj\Debug\4.exe
+C:\Users\sn3ts\Documents\visual studio 2015\Projects\ProgrammingFundamentalsExam\4\obj\Debug\4.pdb
+C:\Users\sn3ts\Documents\visual studio 2015\Projects\ProgrammingFundamentalsExam\4\obj\Debug\4.Trifon'sQuest.csprojResolveAssemblyReference.cache

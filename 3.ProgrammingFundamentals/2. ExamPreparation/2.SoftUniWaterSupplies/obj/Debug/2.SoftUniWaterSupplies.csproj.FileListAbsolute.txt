@@ -1,0 +1,9 @@
+c:\users\sn3ts\documents\visual studio 2015\Projects\ProgrammingFundamentalsSampleExamII\2.SoftUniWaterSupplies\bin\Debug\2.SoftUniWaterSupplies.exe.config
+c:\users\sn3ts\documents\visual studio 2015\Projects\ProgrammingFundamentalsSampleExamII\2.SoftUniWaterSupplies\bin\Debug\2.SoftUniWaterSupplies.exe
+c:\users\sn3ts\documents\visual studio 2015\Projects\ProgrammingFundamentalsSampleExamII\2.SoftUniWaterSupplies\bin\Debug\2.SoftUniWaterSupplies.pdb
+c:\users\sn3ts\documents\visual studio 2015\Projects\ProgrammingFundamentalsSampleExamII\2.SoftUniWaterSupplies\obj\Debug\2.SoftUniWaterSupplies.csprojResolveAssemblyReference.cache
+c:\users\sn3ts\documents\visual studio 2015\Projects\ProgrammingFundamentalsSampleExamII\2.SoftUniWaterSupplies\obj\Debug\2.SoftUniWaterSupplies.exe
+c:\users\sn3ts\documents\visual studio 2015\Projects\ProgrammingFundamentalsSampleExamII\2.SoftUniWaterSupplies\obj\Debug\2.SoftUniWaterSupplies.pdb
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2. ExamPreparation\2.SoftUniWaterSupplies\bin\Debug\2.SoftUniWaterSupplies.exe.config
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2. ExamPreparation\2.SoftUniWaterSupplies\obj\Debug\2.SoftUniWaterSupplies.exe
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2. ExamPreparation\2.SoftUniWaterSupplies\obj\Debug\2.SoftUniWaterSupplies.pdb

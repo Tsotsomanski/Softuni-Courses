@@ -1,0 +1,5 @@
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\8.05-MaxPlatform3x3\bin\Debug\8.05-MaxPlatform3x3.exe.config
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\8.05-MaxPlatform3x3\bin\Debug\8.05-MaxPlatform3x3.exe
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\8.05-MaxPlatform3x3\bin\Debug\8.05-MaxPlatform3x3.pdb
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\8.05-MaxPlatform3x3\obj\Debug\8.05-MaxPlatform3x3.exe
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\8.05-MaxPlatform3x3\obj\Debug\8.05-MaxPlatform3x3.pdb

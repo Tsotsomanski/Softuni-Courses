@@ -1,0 +1,6 @@
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\9.02-CountLettersInStringg\bin\Debug\9.02-CountLettersInStringg.exe.config
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\9.02-CountLettersInStringg\bin\Debug\9.02-CountLettersInStringg.exe
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\9.02-CountLettersInStringg\bin\Debug\9.02-CountLettersInStringg.pdb
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\9.02-CountLettersInStringg\obj\Debug\9.02-CountLettersInStringg.exe
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\9.02-CountLettersInStringg\obj\Debug\9.02-CountLettersInStringg.pdb
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\9.02-CountLettersInStringg\obj\Debug\9.02-CountLettersInString.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\10.04-ExtractSentencesByKeyword\bin\Debug\10.04-ExtractSentencesByKeyword.exe.config
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\10.04-ExtractSentencesByKeyword\bin\Debug\10.04-ExtractSentencesByKeyword.exe
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\10.04-ExtractSentencesByKeyword\bin\Debug\10.04-ExtractSentencesByKeyword.pdb
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\10.04-ExtractSentencesByKeyword\obj\Debug\10.04-ExtractSentencesByKeyword.exe
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\10.04-ExtractSentencesByKeyword\obj\Debug\10.04-ExtractSentencesByKeyword.pdb
+P:\SoftUni\2.TechModule\1.ProgrammingFundamentals\2.DataTypesIMethodsIArraysILists\10.04-ExtractSentencesByKeyword\obj\Debug\10.04-ExtractSentencesByKeyword.csprojResolveAssemblyReference.cache

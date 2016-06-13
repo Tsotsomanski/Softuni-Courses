@@ -1,0 +1,6 @@
+C:\Users\sn3ts\Documents\visual studio 2015\Projects\ProgrammingFundamentalsExam\ProgrammingFundamentalsExam\bin\Debug\ProgrammingFundamentalsExam.exe.config
+C:\Users\sn3ts\Documents\visual studio 2015\Projects\ProgrammingFundamentalsExam\ProgrammingFundamentalsExam\bin\Debug\ProgrammingFundamentalsExam.exe
+C:\Users\sn3ts\Documents\visual studio 2015\Projects\ProgrammingFundamentalsExam\ProgrammingFundamentalsExam\bin\Debug\ProgrammingFundamentalsExam.pdb
+C:\Users\sn3ts\Documents\visual studio 2015\Projects\ProgrammingFundamentalsExam\ProgrammingFundamentalsExam\obj\Debug\1.Numbers.csprojResolveAssemblyReference.cache
+C:\Users\sn3ts\Documents\visual studio 2015\Projects\ProgrammingFundamentalsExam\ProgrammingFundamentalsExam\obj\Debug\ProgrammingFundamentalsExam.exe
+C:\Users\sn3ts\Documents\visual studio 2015\Projects\ProgrammingFundamentalsExam\ProgrammingFundamentalsExam\obj\Debug\ProgrammingFundamentalsExam.pdb
