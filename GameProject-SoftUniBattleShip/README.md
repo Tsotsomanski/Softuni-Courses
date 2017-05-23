@@ -1,2 +1,0 @@
-# OOPGameProject
-OOP Teamwork
